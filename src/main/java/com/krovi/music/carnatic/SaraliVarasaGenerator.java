@@ -8,106 +8,106 @@ public class SaraliVarasaGenerator {
 
   public static final Function<Raaga, String> saraliVarasa1 =
       raaga ->
-          "\n"
+          "\n1. "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining());
 
   public static final Function<Raaga, String> saraliVarasa2 =
       raaga ->
-          "\n"
+          "\n2. "
               + List.of(1, 2, 3, 4, 1, 2, 3, 4).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 1, 2, 3, 4).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining());
 
   public static final Function<Raaga, String> saraliVarasa3 =
       raaga ->
-          "\n"
+          "\n3. "
               + List.of(1, 2, 3, 4, 1, 2, 1, 2).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 1, 2, 1, 2).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining());
 
   public static final Function<Raaga, String> saraliVarasa4 =
       raaga ->
-          "\n"
-              + List.of(1, 2, 3, 4, 5, 5, 1, 2).stream()
+          "\n4. "
+              + List.of(1, 2, 3, 4, 5, 0, 1, 2).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
-              + List.of(1, 2, 3, 4, 5, 5, 1, 2).stream()
+              + "\n   "
+              + List.of(1, 2, 3, 4, 5, 0, 1, 2).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining());
 
   public static final Function<Raaga, String> saraliVarasa5 =
       raaga ->
-          "\n"
+          "\n5. "
               + List.of(1, 2, 3, 4, 5, 4, 3, 2).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 4, 3, 2).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining());
 
   public static final Function<Raaga, String> saraliVarasa6 =
       raaga ->
-          "\n"
+          "\n6. "
               + List.of(1, 2, 3, 4, 5, 4, 6, 5).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 4, 6, 5).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining())
-              + "\n"
+              + "\n   "
               + List.of(1, 2, 3, 4, 5, 6, 7, 8).stream()
                   .map(i -> raaga.getAvarohana().get(i - 1))
                   .collect(Collectors.joining());

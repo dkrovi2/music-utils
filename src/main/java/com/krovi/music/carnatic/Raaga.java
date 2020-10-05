@@ -8,8 +8,8 @@ import org.apache.commons.lang3.tuple.Pair;
 
 public final class Raaga {
   private final Pair<List<String>, List<String>> moorchana;
-  private final List<String> aarohana;
-  private final List<String> avarohana;
+  private final Octet aarohana;
+  private final Octet avarohana;
 
   private Raaga(
       final Pair<List<String>, List<String>> moorchana,
@@ -19,20 +19,20 @@ public final class Raaga {
         Pair.of(
             Collections.unmodifiableList(moorchana.getKey()),
             Collections.unmodifiableList(moorchana.getValue()));
-    this.aarohana = new ArrayList<>(aarohana);
-    this.avarohana = new ArrayList<>(avarohana);
+    this.aarohana = Octet.of(aarohana);
+    this.avarohana = Octet.of(avarohana);
   }
 
   public Pair<List<String>, List<String>> getMoorchana() {
     return moorchana;
   }
 
-  public List<String> getAarohana() {
-    return Collections.unmodifiableList(aarohana);
+  public Octet getAarohana() {
+    return aarohana;
   }
 
-  public List<String> getAvarohana() {
-    return Collections.unmodifiableList(avarohana);
+  public Octet getAvarohana() {
+    return avarohana;
   }
 
   public String toString() {
@@ -70,15 +70,13 @@ public final class Raaga {
     public Raaga build() {
       if (null == moorchana
           || null == moorchana.getLeft()
-          || moorchana.getLeft().size() != 8
           || null == moorchana.getRight()
-          || moorchana.getRight().size() != 8
           || null == aarohana
           || aarohana.size() != 8
           || null == avarohana
           || avarohana.size() != 8) {
         throw new IllegalArgumentException(
-            "Expected eight swaras in moorchana, aarohana and avarohona but found: [aa:"
+            "Expected non-null moorchana, eight swaras in aarohana and avarohona but found: [aa:"
                 + aarohana
                 + ", av:"
                 + avarohana);
