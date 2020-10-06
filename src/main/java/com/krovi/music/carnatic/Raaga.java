@@ -39,7 +39,7 @@ public final class Raaga {
     return "\nమూర్ఛన:"
         + "\n     ఆరోహణము: "
         + String.join(" ", moorchana.getLeft())
-        + "\n    ఆవరోహణము: "
+        + "\n    " + LabelsDelegate.avaorhana() + ": "
         + String.join(" ", moorchana.getRight());
   }
 
