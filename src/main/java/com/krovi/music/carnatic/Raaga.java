@@ -36,10 +36,16 @@ public final class Raaga {
   }
 
   public String toString() {
-    return "\nమూర్ఛన:"
-        + "\n     ఆరోహణము: "
+    return "\n"
+        + LabelsDelegate.moorchana()
+        + ":"
+        + "\n     "
+        + LabelsDelegate.aaorhana()
+        + ": "
         + String.join(" ", moorchana.getLeft())
-        + "\n    " + LabelsDelegate.avaorhana() + ": "
+        + "\n    "
+        + LabelsDelegate.avaorhana()
+        + ": "
         + String.join(" ", moorchana.getRight());
   }
 
@@ -95,11 +101,20 @@ public final class Raaga {
             .aaorhana(List.of(SA, RI, GA, MA, PA, DA, NI, SA_H))
             .avaorhana(List.of(SA_H, NI, DA, PA, MA, GA, RI, SA))
             .build();
-    System.out.println(SaraliVarasaGenerator.saraliVarasa1.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaGenerator.saraliVarasa2.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaGenerator.saraliVarasa3.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaGenerator.saraliVarasa4.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaGenerator.saraliVarasa5.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaGenerator.saraliVarasa6.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa1.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa20.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa21.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa30.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa31.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa4.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa5.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa60.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa61.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa71.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa10.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa11.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa12.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa13.apply(maayamalawagowla));
+    System.out.println(SaraliVarasaRepo.saraliVarasa14.apply(maayamalawagowla));
   }
 }
