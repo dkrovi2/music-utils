@@ -5,6 +5,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class SaraliVarasaRepo {
+
   public static final Function<Raaga, String> saraliVarasa1 =
       raaga ->
           s(
@@ -125,28 +126,46 @@ public class SaraliVarasaRepo {
               List.of(List.of(1, 2, 3, 4, 5, 0, 5, 0), List.of(6, 6, 5, 0, 4, 4, 5, 0)),
               List.of(List.of(3, 2, 1, 0, 1, 2, 3, 4), List.of(1, 2, 3, 4, 5, 6, 7, 8)));
 
+  public static List<Function<Raaga, String>> SARALIS =
+      List.of(
+          saraliVarasa1,
+          saraliVarasa20,
+          saraliVarasa21,
+          saraliVarasa30,
+          saraliVarasa31,
+          saraliVarasa4,
+          saraliVarasa5,
+          saraliVarasa60,
+          saraliVarasa61,
+          saraliVarasa71,
+          saraliVarasa10,
+          saraliVarasa11,
+          saraliVarasa12,
+          saraliVarasa13,
+          saraliVarasa14);
+
   private SaraliVarasaRepo() {
     // This class is not expected to be instantiated.
   }
 
-  public static String s(
-    final Raaga raaga,
-    final int number,
-    final List<List<Integer>> aarohanaPatterns,
-    final List<List<Integer>> avarohanaPatterns) {
+  private static String s(
+      final Raaga raaga,
+      final int number,
+      final List<List<Integer>> aarohanaPatterns,
+      final List<List<Integer>> avarohanaPatterns) {
     return String.format(
-      "%2d. %s%s",
-      number,
-      aarohanaPatterns.stream()
-        .map(pattern -> s(pattern, raaga.getAarohana()))
-        .collect(Collectors.joining()),
-      avarohanaPatterns.stream()
-        .map(pattern -> s(pattern, raaga.getAvarohana()))
-        .collect(Collectors.joining()));
+        "%2d. %s%s%n",
+        number,
+        aarohanaPatterns.stream()
+            .map(pattern -> s(pattern, raaga.getAarohana()))
+            .collect(Collectors.joining()),
+        avarohanaPatterns.stream()
+            .map(pattern -> s(pattern, raaga.getAvarohana()))
+            .collect(Collectors.joining()));
   }
 
   private static String s(final List<Integer> pattern, final Octet octet) {
-    return "\n    " + pattern.stream().map(i -> octet.get(i - 1)).collect(Collectors.joining());
+    return String.format(
+        "%n    %s", pattern.stream().map(i -> octet.get(i - 1)).collect(Collectors.joining()));
   }
-
 }

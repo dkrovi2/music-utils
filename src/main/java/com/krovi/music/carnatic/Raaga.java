@@ -90,31 +90,4 @@ public final class Raaga {
       return new Raaga(moorchana, aarohana, avarohana);
     }
   }
-
-  public static void main(final String[] args) {
-    Raaga maayamalawagowla =
-        Raaga.newBuilder()
-            .moorchana(
-                Pair.of(
-                    List.of(SA, RI, GA, MA, PA, DA, NI, SA_H),
-                    List.of(SA_H, NI, DA, PA, MA, GA, RI, SA)))
-            .aaorhana(List.of(SA, RI, GA, MA, PA, DA, NI, SA_H))
-            .avaorhana(List.of(SA_H, NI, DA, PA, MA, GA, RI, SA))
-            .build();
-    System.out.println(SaraliVarasaRepo.saraliVarasa1.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa20.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa21.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa30.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa31.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa4.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa5.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa60.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa61.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa71.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa10.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa11.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa12.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa13.apply(maayamalawagowla));
-    System.out.println(SaraliVarasaRepo.saraliVarasa14.apply(maayamalawagowla));
-  }
 }
