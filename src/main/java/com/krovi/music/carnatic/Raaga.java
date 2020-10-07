@@ -1,37 +1,48 @@
 package com.krovi.music.carnatic;
 
-import static com.krovi.music.carnatic.Swara.*;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
+import java.util.stream.Collectors;
 import org.apache.commons.lang3.tuple.Pair;
 
 public final class Raaga {
-  private final Pair<List<String>, List<String>> moorchana;
-  private final Octet aarohana;
-  private final Octet avarohana;
+  private final Pair<SwaraList, SwaraList> moorchana;
+  private final SwaraList aarohana;
+  private final SwaraList avarohana;
 
   private Raaga(
       final Pair<List<String>, List<String>> moorchana,
       final List<String> aarohana,
       final List<String> avarohana) {
-    this.moorchana =
-        Pair.of(
-            Collections.unmodifiableList(moorchana.getKey()),
-            Collections.unmodifiableList(moorchana.getValue()));
-    this.aarohana = Octet.of(aarohana);
-    this.avarohana = Octet.of(avarohana);
+    this.moorchana = Pair.of(SwaraList.of(moorchana.getKey()), SwaraList.of(moorchana.getValue()));
+    this.aarohana = SwaraList.of(aarohana);
+    this.avarohana = SwaraList.of(avarohana);
   }
 
-  public Pair<List<String>, List<String>> getMoorchana() {
+  public List<List<String>> applyPatterns(
+      final List<List<Integer>> aarohanaPatterns, final List<List<Integer>> avarohanaPatterns) {
+    List<List<String>> list = new ArrayList<>();
+    list.addAll(
+        aarohanaPatterns.stream()
+            .map(pattern -> getAarohana().applyPattern(pattern))
+            .collect(Collectors.toList()));
+    list.addAll(
+        avarohanaPatterns.stream()
+            .map(pattern -> getAvarohana().applyPattern(pattern))
+            .collect(Collectors.toList()));
+
+    return list;
+  }
+
+  public Pair<SwaraList, SwaraList> getMoorchana() {
     return moorchana;
   }
 
-  public Octet getAarohana() {
+  public SwaraList getAarohana() {
     return aarohana;
   }
 
-  public Octet getAvarohana() {
+  public SwaraList getAvarohana() {
     return avarohana;
   }
 
@@ -42,33 +53,33 @@ public final class Raaga {
         + "\n     "
         + LabelsDelegate.aaorhana()
         + ": "
-        + String.join(" ", moorchana.getLeft())
+        + moorchana.getLeft().join(" ")
         + "\n    "
         + LabelsDelegate.avaorhana()
         + ": "
-        + String.join(" ", moorchana.getRight());
+        + moorchana.getRight().join(" ");
   }
 
-  public static Builder newBuilder() {
-    return new Builder();
+  public static RaagaBuilder newBuilder() {
+    return new RaagaBuilder();
   }
 
-  public static class Builder {
+  public static class RaagaBuilder {
     private Pair<List<String>, List<String>> moorchana;
     private List<String> aarohana;
     private List<String> avarohana;
 
-    public Builder moorchana(final Pair<List<String>, List<String>> moorchana) {
+    public RaagaBuilder moorchana(final Pair<List<String>, List<String>> moorchana) {
       this.moorchana = moorchana;
       return this;
     }
 
-    public Builder aaorhana(final List<String> aarohana) {
+    public RaagaBuilder aaorhana(final List<String> aarohana) {
       this.aarohana = aarohana;
       return this;
     }
 
-    public Builder avaorhana(final List<String> avarohana) {
+    public RaagaBuilder avaorhana(final List<String> avarohana) {
       this.avarohana = avarohana;
       return this;
     }
@@ -78,11 +89,11 @@ public final class Raaga {
           || null == moorchana.getLeft()
           || null == moorchana.getRight()
           || null == aarohana
-          || aarohana.size() != 8
-          || null == avarohana
-          || avarohana.size() != 8) {
+          || null == avarohana) {
         throw new IllegalArgumentException(
-            "Expected non-null moorchana, eight swaras in aarohana and avarohona but found: [aa:"
+            "Expected non-null moorchana, aarohana and avarohona but found: [m: "
+                + moorchana
+                + ", aa:"
                 + aarohana
                 + ", av:"
                 + avarohana);

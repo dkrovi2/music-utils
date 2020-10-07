@@ -14,5 +14,10 @@ public class Main {
     System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.HINDOLAM));
     System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MALAYA_MAARUTHAM));
     System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.KAMBHOJI));
+
+    System.out.println(JantiVarasaRepo.jantisFor(RaagaRepo.MALAYA_MAARUTHAM));
+    System.out.println(JantiVarasaRepo.jantisFor((RaagaRepo.MALAHARI)));
+    System.out.println(JantiVarasaRepo.jantisFor((RaagaRepo.MOHANA)));
+
   }
 }

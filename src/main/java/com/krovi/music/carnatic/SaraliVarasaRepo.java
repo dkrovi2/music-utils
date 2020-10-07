@@ -1,5 +1,6 @@
 package com.krovi.music.carnatic;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -153,20 +154,13 @@ public class SaraliVarasaRepo {
       final int number,
       final List<List<Integer>> aarohanaPatterns,
       final List<List<Integer>> avarohanaPatterns) {
-    return String.format(
-        "%2d. %s%s%n",
-        number,
-        aarohanaPatterns.stream()
-            .map(pattern -> s(pattern, raaga.getAarohana()))
-            .collect(Collectors.joining()),
-        avarohanaPatterns.stream()
-            .map(pattern -> s(pattern, raaga.getAvarohana()))
-            .collect(Collectors.joining()));
-  }
 
-  private static String s(final List<Integer> pattern, final Octet octet) {
     return String.format(
-        "%n    %s", pattern.stream().map(i -> octet.get(i - 1)).collect(Collectors.joining()));
+        "%2d. %s%n",
+        number,
+        raaga.applyPatterns(aarohanaPatterns, avarohanaPatterns).stream()
+            .map(line -> String.format("%n    %s", String.join(" ", line)))
+            .collect(Collectors.joining()));
   }
 
   public static String saralisFor(final Raaga raaga) {

@@ -26,4 +26,6 @@ public final class Swara {
   public static final String PA_H = "ప↑  ";
   public static final String DA_H = "ద↑  ";
   public static final String NI_H = "ని↑  ";
+
+  public static final String REPEAT = ".   ";
 }
