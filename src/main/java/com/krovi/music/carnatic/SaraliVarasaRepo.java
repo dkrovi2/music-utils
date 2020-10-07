@@ -168,4 +168,8 @@ public class SaraliVarasaRepo {
     return String.format(
         "%n    %s", pattern.stream().map(i -> octet.get(i - 1)).collect(Collectors.joining()));
   }
+
+  public static String saralisFor(final Raaga raaga) {
+    return SaraliVarasaRepo.SARALIS.stream().map(s -> s.apply(raaga)).collect(Collectors.joining());
+  }
 }

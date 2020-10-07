@@ -7,7 +7,12 @@ public class Main {
 
   public static void main(final String[] args) {
     LabelsDelegate.setLabels(new TeluguLabels());
-    SaraliVarasaRepo.SARALIS.forEach(
-        s -> System.out.println(s.apply(RaagaRepo.MAAYA_MAALAWA_GOWLA)));
+    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MAAYA_MAALAWA_GOWLA));
+    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MALAHARI));
+    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MOHANA));
+    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.KALYANI));
+    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.HINDOLAM));
+    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MALAYA_MAARUTHAM));
+    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.KAMBHOJI));
   }
 }
