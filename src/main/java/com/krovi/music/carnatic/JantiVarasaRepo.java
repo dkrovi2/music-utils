@@ -81,8 +81,30 @@ public class JantiVarasaRepo {
                   .flatMap(Collection::stream)
                   .collect(Collectors.toList()));
 
+  public static final Function<Raaga, String> jantiVarasa5 =
+      raaga ->
+          s(
+              raaga,
+              4,
+              IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
+                  .mapToObj(
+                      i ->
+                          List.of(
+                              List.of(i + 3, i + 3, i + 2, i + 2, i + 1, i + 1, i + 2, i + 2),
+                              List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 3, i + 3)))
+                  .flatMap(Collection::stream)
+                  .collect(Collectors.toList()),
+              IntStream.range(1, raaga.getMoorchana().getValue().size() - 2)
+                  .mapToObj(
+                      i ->
+                          List.of(
+                              List.of(i + 3, i + 3, i + 2, i + 2, i + 1, i + 1, i + 2, i + 2),
+                              List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 3, i + 3)))
+                  .flatMap(Collection::stream)
+                  .collect(Collectors.toList()));
+
   public static final List<Function<Raaga, String>> jantiVarasaList =
-      List.of(jantiVarasa1, jantiVarasa2, jantiVarasa3, jantiVarasa4);
+      List.of(jantiVarasa1, jantiVarasa2, jantiVarasa3, jantiVarasa4, jantiVarasa5);
 
   private static String s(
       final Raaga raaga,
