@@ -47,6 +47,14 @@ public class RaagaRepo {
           .avaorhana(List.of(GA_H, RI_H, SA_H, DA, PA, GA, RI, SA))
           .build();
 
+  public static final Raaga HAMSADHWANI =
+      Raaga.newBuilder()
+          .name("హంసధ్వని")
+          .moorchana(Pair.of(List.of(SA, RI, GA, PA, NI, SA_H), List.of(SA_H, NI, PA, GA, RI, SA)))
+          .aaorhana(List.of(SA, RI, GA, PA, NI, SA_H, RI_H, GA_H))
+          .avaorhana(List.of(GA_H, RI_H, SA_H, NI, PA, GA, RI, SA))
+          .build();
+
   public static final Raaga KALYANI =
       Raaga.newBuilder()
           .name("కల్యాణి")
@@ -115,7 +123,8 @@ public class RaagaRepo {
           KAMBHOJI,
           HINDOLAM,
           BILAHARI,
-          JHINJHOTI);
+          JHINJHOTI,
+          HAMSADHWANI);
 
   private RaagaRepo() {
     // This class is not expected to be instantiated.
