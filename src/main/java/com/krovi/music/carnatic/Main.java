@@ -5,19 +5,26 @@ public class Main {
     // This class is not expected to be instantiated.
   }
 
+  private static void print(final String s) {
+    System.out.println(s);
+  }
+
   public static void main(final String[] args) {
     LabelsDelegate.setLabels(new TeluguLabels());
-    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MAAYA_MAALAWA_GOWLA));
-    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MALAHARI));
-    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MOHANA));
-    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.KALYANI));
-    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.HINDOLAM));
-    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.MALAYA_MAARUTHAM));
-    System.out.println(SaraliVarasaRepo.saralisFor(RaagaRepo.KAMBHOJI));
+    print(SaraliVarasaRepo.saralisFor(RaagaRepo.MAAYA_MAALAWA_GOWLA));
+    print(SaraliVarasaRepo.saralisFor(RaagaRepo.MALAHARI));
+    print(SaraliVarasaRepo.saralisFor(RaagaRepo.MOHANA));
+    print(SaraliVarasaRepo.saralisFor(RaagaRepo.KALYANI));
+    print(SaraliVarasaRepo.saralisFor(RaagaRepo.HINDOLAM));
+    print(SaraliVarasaRepo.saralisFor(RaagaRepo.MALAYA_MAARUTHAM));
+    print(SaraliVarasaRepo.saralisFor(RaagaRepo.KAMBHOJI));
 
-    System.out.println(JantiVarasaRepo.jantisFor(RaagaRepo.MALAYA_MAARUTHAM));
-    System.out.println(JantiVarasaRepo.jantisFor((RaagaRepo.MALAHARI)));
-    System.out.println(JantiVarasaRepo.jantisFor((RaagaRepo.MOHANA)));
+    print(JantiVarasaRepo.jantisFor(RaagaRepo.MAAYA_MAALAWA_GOWLA));
+    print(JantiVarasaRepo.jantisFor((RaagaRepo.MALAHARI)));
+    print(JantiVarasaRepo.jantisFor((RaagaRepo.MOHANA)));
 
+    print(DhaatuVarasaRepo.dhaatusFor(RaagaRepo.MAAYA_MAALAWA_GOWLA));
+    print(DhaatuVarasaRepo.dhaatusFor((RaagaRepo.MALAHARI)));
+    print(DhaatuVarasaRepo.dhaatusFor((RaagaRepo.MOHANA)));
   }
 }

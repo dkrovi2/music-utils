@@ -16,7 +16,7 @@ public class DhaatuVarasaRepo {
                   .mapToObj(
                       i ->
                           List.of(
-                              List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 1, i + 1),
+                              List.of(i, i + 1, i, i + 2, i, i + 3, i + 2, i + 1),
                               List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 3, i + 3)))
                   .flatMap(Collection::stream)
                   .collect(Collectors.toList()),
@@ -24,10 +24,35 @@ public class DhaatuVarasaRepo {
                   .mapToObj(
                       i ->
                           List.of(
-                              List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 1, i + 1),
+                              List.of(i, i + 1, i, i + 2, i, i + 3, i + 2, i + 1),
                               List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 3, i + 3)))
                   .flatMap(Collection::stream)
                   .collect(Collectors.toList()));
+
+  public static final Function<Raaga, String> dhaatuVarasa2 =
+      raaga ->
+          s(
+              raaga,
+              2,
+              IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
+                  .mapToObj(
+                      i ->
+                          List.of(
+                              List.of(i, i + 3, i + 2, i + 3, i + 1, i + 2, i, i + 1),
+                              List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 3, i + 3)))
+                  .flatMap(Collection::stream)
+                  .collect(Collectors.toList()),
+              IntStream.range(1, raaga.getMoorchana().getValue().size() - 2)
+                  .mapToObj(
+                      i ->
+                          List.of(
+                              List.of(i, i + 3, i + 2, i + 3, i + 1, i + 2, i, i + 1),
+                              List.of(i, i, i + 1, i + 1, i + 2, i + 2, i + 3, i + 3)))
+                  .flatMap(Collection::stream)
+                  .collect(Collectors.toList()));
+
+  public static final List<Function<Raaga, String>> dhaatuVarasaList =
+      List.of(dhaatuVarasa1, dhaatuVarasa2);
 
   protected static String s(
       final Raaga raaga,
@@ -47,6 +72,12 @@ public class DhaatuVarasaRepo {
 
   private static String s(final List<Integer> pattern, final SwaraList list) {
     return String.format("%n    %s", String.join(" ", list.applyPattern(pattern)));
+  }
+
+  public static String dhaatusFor(final Raaga raaga) {
+    return dhaatuVarasaList.stream()
+        .map(jantiVarasa -> jantiVarasa.apply(raaga))
+        .collect(Collectors.joining());
   }
 
   private DhaatuVarasaRepo() {
