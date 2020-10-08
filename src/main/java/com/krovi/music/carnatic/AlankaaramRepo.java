@@ -1,6 +1,6 @@
 package com.krovi.music.carnatic;
 
-import static com.krovi.music.carnatic.MusicUtil.s;
+import static com.krovi.music.carnatic.MusicUtil.format;
 import java.util.Collection;
 import java.util.List;
 import java.util.function.Function;
@@ -10,9 +10,10 @@ import java.util.stream.IntStream;
 public class AlankaaramRepo {
   public static final Function<Raaga, String> roopaka =
       raaga ->
-          s(
+          format(
               raaga,
               1,
+              LabelsDelegate.roopaka(),
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
                   .mapToObj(i -> List.of(i, i + 1, i, i + 1, i + 2, i + 3))
                   .collect(Collectors.toList()),
@@ -22,9 +23,10 @@ public class AlankaaramRepo {
 
   public static final Function<Raaga, String> triputa =
       raaga ->
-          s(
+          format(
               raaga,
               2,
+              LabelsDelegate.triputa(),
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
                   .mapToObj(i -> List.of(i, i + 1, i + 2, i, i + 1, i + 2, i + 3))
                   .collect(Collectors.toList()),
@@ -34,9 +36,10 @@ public class AlankaaramRepo {
 
   public static final Function<Raaga, String> matya =
       raaga ->
-          s(
+          format(
               raaga,
               3,
+              LabelsDelegate.matya(),
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
                   .mapToObj(
                       i ->
@@ -62,9 +65,10 @@ public class AlankaaramRepo {
 
   public static final Function<Raaga, String> dhruva =
       raaga ->
-          s(
+          format(
               raaga,
               4,
+              LabelsDelegate.dhruva(),
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
                   .mapToObj(
                       i ->
@@ -92,9 +96,10 @@ public class AlankaaramRepo {
 
   public static final Function<Raaga, String> atta =
       raaga ->
-          s(
+          format(
               raaga,
               5,
+              LabelsDelegate.atta(),
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
                   .mapToObj(
                       i ->
@@ -120,9 +125,10 @@ public class AlankaaramRepo {
 
   public static final Function<Raaga, String> jampe =
       raaga ->
-          s(
+          format(
               raaga,
               6,
+              LabelsDelegate.jhampe(),
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
                   .mapToObj(
                       i ->
@@ -148,9 +154,10 @@ public class AlankaaramRepo {
 
   public static final Function<Raaga, String> eka =
       raaga ->
-          s(
+          format(
               raaga,
               7,
+              LabelsDelegate.eka(),
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
                   .mapToObj(i -> List.of(i, i + 1, i + 2, i + 3))
                   .collect(Collectors.toList()),

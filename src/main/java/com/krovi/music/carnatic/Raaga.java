@@ -51,11 +51,11 @@ public final class Raaga {
         + LabelsDelegate.moorchana()
         + ":"
         + "\n     "
-        + LabelsDelegate.aaorhana()
+        + LabelsDelegate.aarohana()
         + ": "
         + moorchana.getLeft().join(" ")
         + "\n    "
-        + LabelsDelegate.avaorhana()
+        + LabelsDelegate.avarohana()
         + ": "
         + moorchana.getRight().join(" ");
   }

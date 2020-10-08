@@ -6,4 +6,26 @@ public interface Labels {
   String aarohana();
 
   String avarohana();
+
+  String saralis();
+
+  String jantis();
+
+  String dhaatus();
+
+  String alankaarams();
+
+  String roopaka();
+
+  String triputa();
+
+  String matya();
+
+  String dhruva();
+
+  String atta();
+
+  String jhampe();
+
+  String eka();
 }

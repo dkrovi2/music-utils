@@ -1,6 +1,6 @@
 package com.krovi.music.carnatic;
 
-import static com.krovi.music.carnatic.MusicUtil.s;
+import static com.krovi.music.carnatic.MusicUtil.format;
 import java.util.Collection;
 import java.util.List;
 import java.util.function.Function;
@@ -10,7 +10,7 @@ import java.util.stream.IntStream;
 public class DhaatuVarasaRepo {
   public static final Function<Raaga, String> dhaatuVarasa1 =
       raaga ->
-          s(
+          format(
               raaga,
               1,
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)
@@ -32,7 +32,7 @@ public class DhaatuVarasaRepo {
 
   public static final Function<Raaga, String> dhaatuVarasa2 =
       raaga ->
-          s(
+          format(
               raaga,
               2,
               IntStream.range(1, raaga.getMoorchana().getKey().size() - 2)

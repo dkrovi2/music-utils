@@ -8,23 +8,37 @@ public class MusicUtil {
     // This class is not expected to be instantiated.
   }
 
-  protected static String s(
+  protected static String format(
       final Raaga raaga,
       final int number,
       final List<List<Integer>> aarohanaPatterns,
       final List<List<Integer>> avarohanaPatterns) {
+    return format(raaga, number, "", aarohanaPatterns, avarohanaPatterns);
+  }
+
+  protected static String format(
+      final Raaga raaga,
+      final int number,
+      final String label,
+      final List<List<Integer>> aarohanaPatterns,
+      final List<List<Integer>> avarohanaPatterns) {
+    String fmtStr =
+        null == label || "".equals(label)
+            ? "%2d. %s%s%n%n"
+            : "%2d. %s:%n" + "    " + "===================================" + " %s%s%n%n";
     return String.format(
-        "%2d. %s%s%n%n",
+        fmtStr,
         number,
+        label,
         aarohanaPatterns.stream()
-            .map(pattern -> s(pattern, raaga.getMoorchana().getLeft()))
+            .map(pattern -> format(pattern, raaga.getMoorchana().getLeft()))
             .collect(Collectors.joining()),
         avarohanaPatterns.stream()
-            .map(pattern -> s(pattern, raaga.getMoorchana().getRight()))
+            .map(pattern -> format(pattern, raaga.getMoorchana().getRight()))
             .collect(Collectors.joining()));
   }
 
-  private static String s(final List<Integer> pattern, final SwaraList list) {
+  private static String format(final List<Integer> pattern, final SwaraList list) {
     return String.format("%n    %s", String.join(" ", list.applyPattern(pattern)));
   }
 }
