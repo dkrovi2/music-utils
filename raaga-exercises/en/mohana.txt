@@ -28,9 +28,9 @@ Raaga: Mohana
     Ga↑   Ri↑   Sa↑   Ga↑   Ri↑   Sa↑   Ga↑   Ri↑  
     Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ri    Sa   
  4. 
-    Sa    Ri    Ga    Pa    Da    .    Sa    Ri   
+    Sa    Ri    Ga    Pa    Da    .     Sa    Ri   
     Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   Ga↑  
-    Ga↑   Ri↑   Sa↑   Da    Pa    .    Ga↑   Ri↑  
+    Ga↑   Ri↑   Sa↑   Da    Pa    .     Ga↑   Ri↑  
     Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ri    Sa   
  5. 
     Sa    Ri    Ga    Pa    Da    Pa    Ga    Ri   
@@ -48,34 +48,34 @@ Raaga: Mohana
     Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ga↑   Ri↑  
     Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ri    Sa   
  7. 
-    Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   .   
+    Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   .    
     Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   Ga↑  
-    Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ri    .   
+    Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ri    .    
     Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ri    Sa   
 10. 
-    Sa    Ri    Ga    Pa    Da    .    Ga    Pa   
-    Da    .    .    .    Da    .    .    .   
+    Sa    Ri    Ga    Pa    Da    .     Ga    Pa   
+    Da    .     .     .     Da    .     .     .    
     Ga    Pa    Da    Sa↑   Ri↑   Sa↑   Da    Pa   
     Ga    Pa    Da    Ga    Pa    Ga    Ri    Sa   
 11. 
-    Ga↑   .    Ri↑   Sa↑   Ri↑   .    Sa↑   Da   
-    Sa↑   .    Da    Pa    Da    .    Da    .   
+    Ga↑   .     Ri↑   Sa↑   Ri↑   .     Sa↑   Da   
+    Sa↑   .     Da    Pa    Da    .     Da    .    
     Ga    Pa    Da    Sa↑   Ri↑   Sa↑   Da    Pa   
     Ga    Pa    Da    Ga    Pa    Ga    Ri    Sa   
 12. 
     Ga↑   Ga↑   Ri↑   Sa↑   Ri↑   Ri↑   Sa↑   Da   
-    Sa↑   Sa↑   Da    Pa    Da    .    Da    .   
+    Sa↑   Sa↑   Da    Pa    Da    .     Da    .    
     Ga    Pa    Da    Sa↑   Ri↑   Sa↑   Da    Pa   
     Ga    Pa    Da    Ga    Pa    Ga    Ri    Sa   
 13. 
-    Sa    Ri    Ga    Ri    Ga    .    Ga    Pa   
-    Da    Pa    Da    .    Sa↑   Da    Sa↑   .   
+    Sa    Ri    Ga    Ri    Ga    .     Ga    Pa   
+    Da    Pa    Da    .     Sa↑   Da    Sa↑   .    
     Pa    Da    Sa↑   Da    Sa↑   Ri↑   Sa↑   Da   
     Pa    Da    Sa↑   Da    Pa    Ga    Ri    Sa   
 14. 
-    Sa    Ri    Ga    Pa    Da    .    Da    .   
-    Sa↑   Sa↑   Da    .    Pa    Pa    Da    .   
-    Sa↑   Ri↑   Ga↑   .    Ga↑   Ri↑   Sa↑   Da   
+    Sa    Ri    Ga    Pa    Da    .     Da    .    
+    Sa↑   Sa↑   Da    .     Pa    Pa    Da    .    
+    Sa↑   Ri↑   Ga↑   .     Ga↑   Ri↑   Sa↑   Da   
     Ga↑   Ri↑   Sa↑   Da    Pa    Ga    Ri    Sa   
 
 
@@ -175,21 +175,21 @@ Raaga: Mohana
 
  5. Atta Taalam:
     =================================== 
-    Sa    Ri    .    Ga    .    Sa    .    Ri    Ga    .    Pa    Pa   
-    Ri    Ga    .    Pa    .    Ri    .    Ga    Pa    .    Da    Da   
-    Ga    Pa    .    Da    .    Ga    .    Pa    Da    .    Sa↑   Sa↑  
-    Sa↑   Da    .    Pa    .    Sa↑   .    Da    Pa    .    Ga    Ga   
-    Da    Pa    .    Ga    .    Da    .    Pa    Ga    .    Ri    Ri   
-    Pa    Ga    .    Ri    .    Pa    .    Ga    Ri    .    Sa    Sa   
+    Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Pa    Pa   
+    Ri    Ga    .     Pa    .     Ri    .     Ga    Pa    .     Da    Da   
+    Ga    Pa    .     Da    .     Ga    .     Pa    Da    .     Sa↑   Sa↑  
+    Sa↑   Da    .     Pa    .     Sa↑   .     Da    Pa    .     Ga    Ga   
+    Da    Pa    .     Ga    .     Da    .     Pa    Ga    .     Ri    Ri   
+    Pa    Ga    .     Ri    .     Pa    .     Ga    Ri    .     Sa    Sa   
 
  6. Jampe Taalam:
     =================================== 
-    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Pa    .   
-    Ri    Ga    Pa    Ri    Ga    Ri    Ga    Pa    Da    .   
-    Ga    Pa    Da    Ga    Pa    Ga    Pa    Da    Sa↑   .   
-    Sa↑   Da    Pa    Sa↑   Da    Sa↑   Da    Pa    Ga    .   
-    Da    Pa    Ga    Da    Pa    Da    Pa    Ga    Ri    .   
-    Pa    Ga    Ri    Pa    Ga    Pa    Ga    Ri    Sa    .   
+    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Pa    .    
+    Ri    Ga    Pa    Ri    Ga    Ri    Ga    Pa    Da    .    
+    Ga    Pa    Da    Ga    Pa    Ga    Pa    Da    Sa↑   .    
+    Sa↑   Da    Pa    Sa↑   Da    Sa↑   Da    Pa    Ga    .    
+    Da    Pa    Ga    Da    Pa    Da    Pa    Ga    Ri    .    
+    Pa    Ga    Ri    Pa    Ga    Pa    Ga    Ri    Sa    .    
 
  7. Eka Taalam:
     =================================== 

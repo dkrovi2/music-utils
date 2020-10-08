@@ -28,9 +28,9 @@ Raaga: Jinjhoti
     Ni    Da    Pa    Ni    Da    Pa    Ni    Da   
     Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
  4. 
-    Da↓   Sa    Ri    Ga    Ma    .    Da↓   Sa   
+    Da↓   Sa    Ri    Ga    Ma    .     Da↓   Sa   
     Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
-    Ni    Da    Pa    Ma    Ga    .    Ni    Da   
+    Ni    Da    Pa    Ma    Ga    .     Ni    Da   
     Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
  5. 
     Da↓   Sa    Ri    Ga    Ma    Ga    Ri    Sa   
@@ -48,34 +48,34 @@ Raaga: Jinjhoti
     Ni    Da    Pa    Ma    Ga    Ri    Ni    Da   
     Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
  7. 
-    Da↓   Sa    Ri    Ga    Ma    Pa    Da    .   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    .    
     Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
-    Ni    Da    Pa    Ma    Ga    Ri    Sa    .   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    .    
     Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
 10. 
-    Da↓   Sa    Ri    Ga    Ma    .    Ri    Ga   
-    Ma    .    .    .    Ma    .    .    .   
+    Da↓   Sa    Ri    Ga    Ma    .     Ri    Ga   
+    Ma    .     .     .     Ma    .     .     .    
     Ri    Ga    Ma    Pa    Da    Pa    Ma    Ga   
     Ri    Ga    Ma    Ri    Ga    Ri    Sa    Ni↓  
 11. 
-    Ni    .    Da    Pa    Da    .    Pa    Ma   
-    Pa    .    Ma    Ga    Ma    .    Ma    .   
+    Ni    .     Da    Pa    Da    .     Pa    Ma   
+    Pa    .     Ma    Ga    Ma    .     Ma    .    
     Ri    Ga    Ma    Pa    Da    Pa    Ma    Ga   
     Ri    Ga    Ma    Ri    Ga    Ri    Sa    Ni↓  
 12. 
     Ni    Ni    Da    Pa    Da    Da    Pa    Ma   
-    Pa    Pa    Ma    Ga    Ma    .    Ma    .   
+    Pa    Pa    Ma    Ga    Ma    .     Ma    .    
     Ri    Ga    Ma    Pa    Da    Pa    Ma    Ga   
     Ri    Ga    Ma    Ri    Ga    Ri    Sa    Ni↓  
 13. 
-    Da↓   Sa    Ri    Sa    Ri    .    Ri    Ga   
-    Ma    Ga    Ma    .    Pa    Ma    Pa    .   
+    Da↓   Sa    Ri    Sa    Ri    .     Ri    Ga   
+    Ma    Ga    Ma    .     Pa    Ma    Pa    .    
     Ga    Ma    Pa    Ma    Pa    Da    Pa    Ma   
     Ga    Ma    Pa    Ma    Ga    Ri    Sa    Ni↓  
 14. 
-    Da↓   Sa    Ri    Ga    Ma    .    Ma    .   
-    Pa    Pa    Ma    .    Ga    Ga    Ma    .   
-    Pa    Da    Ni    .    Ni    Da    Pa    Ma   
+    Da↓   Sa    Ri    Ga    Ma    .     Ma    .    
+    Pa    Pa    Ma    .     Ga    Ga    Ma    .    
+    Pa    Da    Ni    .     Ni    Da    Pa    Ma   
     Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
 
 
@@ -229,37 +229,37 @@ Raaga: Jinjhoti
 
  5. Atta Taalam:
     =================================== 
-    Da↓   Sa    .    Ri    .    Da↓   .    Sa    Ri    .    Ga    Ga   
-    Sa    Ri    .    Ga    .    Sa    .    Ri    Ga    .    Ma    Ma   
-    Ri    Ga    .    Ma    .    Ri    .    Ga    Ma    .    Pa    Pa   
-    Ga    Ma    .    Pa    .    Ga    .    Ma    Pa    .    Da    Da   
-    Ma    Pa    .    Da    .    Ma    .    Pa    Da    .    Ni    Ni   
-    Ni    Da    .    Pa    .    Ni    .    Da    Pa    .    Ma    Ma   
-    Da    Pa    .    Ma    .    Da    .    Pa    Ma    .    Ga    Ga   
-    Pa    Ma    .    Ga    .    Pa    .    Ma    Ga    .    Ri    Ri   
-    Ma    Ga    .    Ri    .    Ma    .    Ga    Ri    .    Sa    Sa   
-    Ga    Ri    .    Sa    .    Ga    .    Ri    Sa    .    Ni↓   Ni↓  
-    Ri    Sa    .    Ni↓   .    Ri    .    Sa    Ni↓   .    Da↓   Da↓  
-    Sa    Ni↓   .    Da↓   .    Sa    .    Ni↓   Da↓   .    Pa↓   Pa↓  
-    Ni↓   Da↓   .    Pa↓   .    Ni↓   .    Da↓   Pa↓   .    Da↓   Da↓  
-    Da↓   Pa↓   .    Da↓   .    Da↓   .    Pa↓   Da↓   .    Sa    Sa   
+    Da↓   Sa    .     Ri    .     Da↓   .     Sa    Ri    .     Ga    Ga   
+    Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Ma    Ma   
+    Ri    Ga    .     Ma    .     Ri    .     Ga    Ma    .     Pa    Pa   
+    Ga    Ma    .     Pa    .     Ga    .     Ma    Pa    .     Da    Da   
+    Ma    Pa    .     Da    .     Ma    .     Pa    Da    .     Ni    Ni   
+    Ni    Da    .     Pa    .     Ni    .     Da    Pa    .     Ma    Ma   
+    Da    Pa    .     Ma    .     Da    .     Pa    Ma    .     Ga    Ga   
+    Pa    Ma    .     Ga    .     Pa    .     Ma    Ga    .     Ri    Ri   
+    Ma    Ga    .     Ri    .     Ma    .     Ga    Ri    .     Sa    Sa   
+    Ga    Ri    .     Sa    .     Ga    .     Ri    Sa    .     Ni↓   Ni↓  
+    Ri    Sa    .     Ni↓   .     Ri    .     Sa    Ni↓   .     Da↓   Da↓  
+    Sa    Ni↓   .     Da↓   .     Sa    .     Ni↓   Da↓   .     Pa↓   Pa↓  
+    Ni↓   Da↓   .     Pa↓   .     Ni↓   .     Da↓   Pa↓   .     Da↓   Da↓  
+    Da↓   Pa↓   .     Da↓   .     Da↓   .     Pa↓   Da↓   .     Sa    Sa   
 
  6. Jampe Taalam:
     =================================== 
-    Da↓   Sa    Ri    Da↓   Sa    Da↓   Sa    Ri    Ga    .   
-    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Ma    .   
-    Ri    Ga    Ma    Ri    Ga    Ri    Ga    Ma    Pa    .   
-    Ga    Ma    Pa    Ga    Ma    Ga    Ma    Pa    Da    .   
-    Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Ni    .   
-    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .   
-    Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .   
-    Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .   
-    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .   
-    Ga    Ri    Sa    Ga    Ri    Ga    Ri    Sa    Ni↓   .   
-    Ri    Sa    Ni↓   Ri    Sa    Ri    Sa    Ni↓   Da↓   .   
-    Sa    Ni↓   Da↓   Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓   .   
-    Ni↓   Da↓   Pa↓   Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓   .   
-    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    .   
+    Da↓   Sa    Ri    Da↓   Sa    Da↓   Sa    Ri    Ga    .    
+    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Ma    .    
+    Ri    Ga    Ma    Ri    Ga    Ri    Ga    Ma    Pa    .    
+    Ga    Ma    Pa    Ga    Ma    Ga    Ma    Pa    Da    .    
+    Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Ni    .    
+    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .    
+    Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .    
+    Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .    
+    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .    
+    Ga    Ri    Sa    Ga    Ri    Ga    Ri    Sa    Ni↓   .    
+    Ri    Sa    Ni↓   Ri    Sa    Ri    Sa    Ni↓   Da↓   .    
+    Sa    Ni↓   Da↓   Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓   .    
+    Ni↓   Da↓   Pa↓   Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓   .    
+    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    .    
 
  7. Eka Taalam:
     =================================== 

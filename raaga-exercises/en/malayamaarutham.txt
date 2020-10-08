@@ -28,9 +28,9 @@ Raaga: Malayamaarutham
     Ri↑   Sa↑   Ni    Ri↑   Sa↑   Ni    Ri↑   Sa↑  
     Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri    Sa   
  4. 
-    Sa    Ri    Ga    Pa    Da    .    Sa    Ri   
+    Sa    Ri    Ga    Pa    Da    .     Sa    Ri   
     Sa    Ri    Ga    Pa    Da    Ni    Sa↑   Ri↑  
-    Ri↑   Sa↑   Ni    Da    Pa    .    Ri↑   Sa↑  
+    Ri↑   Sa↑   Ni    Da    Pa    .     Ri↑   Sa↑  
     Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri    Sa   
  5. 
     Sa    Ri    Ga    Pa    Da    Pa    Ga    Ri   
@@ -48,34 +48,34 @@ Raaga: Malayamaarutham
     Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri↑   Sa↑  
     Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri    Sa   
  7. 
-    Sa    Ri    Ga    Pa    Da    Ni    Sa↑   .   
+    Sa    Ri    Ga    Pa    Da    Ni    Sa↑   .    
     Sa    Ri    Ga    Pa    Da    Ni    Sa↑   Ri↑  
-    Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri    .   
+    Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri    .    
     Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri    Sa   
 10. 
-    Sa    Ri    Ga    Pa    Da    .    Ga    Pa   
-    Da    .    .    .    Da    .    .    .   
+    Sa    Ri    Ga    Pa    Da    .     Ga    Pa   
+    Da    .     .     .     Da    .     .     .    
     Ga    Pa    Da    Ni    Sa↑   Ni    Da    Pa   
     Ga    Pa    Da    Ga    Pa    Ga    Ri    Sa   
 11. 
-    Ri↑   .    Sa↑   Ni    Sa↑   .    Ni    Da   
-    Ni    .    Da    Pa    Da    .    Da    .   
+    Ri↑   .     Sa↑   Ni    Sa↑   .     Ni    Da   
+    Ni    .     Da    Pa    Da    .     Da    .    
     Ga    Pa    Da    Ni    Sa↑   Ni    Da    Pa   
     Ga    Pa    Da    Ga    Pa    Ga    Ri    Sa   
 12. 
     Ri↑   Ri↑   Sa↑   Ni    Sa↑   Sa↑   Ni    Da   
-    Ni    Ni    Da    Pa    Da    .    Da    .   
+    Ni    Ni    Da    Pa    Da    .     Da    .    
     Ga    Pa    Da    Ni    Sa↑   Ni    Da    Pa   
     Ga    Pa    Da    Ga    Pa    Ga    Ri    Sa   
 13. 
-    Sa    Ri    Ga    Ri    Ga    .    Ga    Pa   
-    Da    Pa    Da    .    Ni    Da    Ni    .   
+    Sa    Ri    Ga    Ri    Ga    .     Ga    Pa   
+    Da    Pa    Da    .     Ni    Da    Ni    .    
     Pa    Da    Ni    Da    Ni    Sa↑   Ni    Da   
     Pa    Da    Ni    Da    Pa    Ga    Ri    Sa   
 14. 
-    Sa    Ri    Ga    Pa    Da    .    Da    .   
-    Ni    Ni    Da    .    Pa    Pa    Da    .   
-    Ni    Sa↑   Ri↑   .    Ri↑   Sa↑   Ni    Da   
+    Sa    Ri    Ga    Pa    Da    .     Da    .    
+    Ni    Ni    Da    .     Pa    Pa    Da    .    
+    Ni    Sa↑   Ri↑   .     Ri↑   Sa↑   Ni    Da   
     Ri↑   Sa↑   Ni    Da    Pa    Ga    Ri    Sa   
 
 
@@ -194,25 +194,25 @@ Raaga: Malayamaarutham
 
  5. Atta Taalam:
     =================================== 
-    Sa    Ri    .    Ga    .    Sa    .    Ri    Ga    .    Pa    Pa   
-    Ri    Ga    .    Pa    .    Ri    .    Ga    Pa    .    Da    Da   
-    Ga    Pa    .    Da    .    Ga    .    Pa    Da    .    Ni    Ni   
-    Pa    Da    .    Ni    .    Pa    .    Da    Ni    .    Sa↑   Sa↑  
-    Sa↑   Ni    .    Da    .    Sa↑   .    Ni    Da    .    Pa    Pa   
-    Ni    Da    .    Pa    .    Ni    .    Da    Pa    .    Ga    Ga   
-    Da    Pa    .    Ga    .    Da    .    Pa    Ga    .    Ri    Ri   
-    Pa    Ga    .    Ri    .    Pa    .    Ga    Ri    .    Sa    Sa   
+    Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Pa    Pa   
+    Ri    Ga    .     Pa    .     Ri    .     Ga    Pa    .     Da    Da   
+    Ga    Pa    .     Da    .     Ga    .     Pa    Da    .     Ni    Ni   
+    Pa    Da    .     Ni    .     Pa    .     Da    Ni    .     Sa↑   Sa↑  
+    Sa↑   Ni    .     Da    .     Sa↑   .     Ni    Da    .     Pa    Pa   
+    Ni    Da    .     Pa    .     Ni    .     Da    Pa    .     Ga    Ga   
+    Da    Pa    .     Ga    .     Da    .     Pa    Ga    .     Ri    Ri   
+    Pa    Ga    .     Ri    .     Pa    .     Ga    Ri    .     Sa    Sa   
 
  6. Jampe Taalam:
     =================================== 
-    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Pa    .   
-    Ri    Ga    Pa    Ri    Ga    Ri    Ga    Pa    Da    .   
-    Ga    Pa    Da    Ga    Pa    Ga    Pa    Da    Ni    .   
-    Pa    Da    Ni    Pa    Da    Pa    Da    Ni    Sa↑   .   
-    Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Pa    .   
-    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ga    .   
-    Da    Pa    Ga    Da    Pa    Da    Pa    Ga    Ri    .   
-    Pa    Ga    Ri    Pa    Ga    Pa    Ga    Ri    Sa    .   
+    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Pa    .    
+    Ri    Ga    Pa    Ri    Ga    Ri    Ga    Pa    Da    .    
+    Ga    Pa    Da    Ga    Pa    Ga    Pa    Da    Ni    .    
+    Pa    Da    Ni    Pa    Da    Pa    Da    Ni    Sa↑   .    
+    Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Pa    .    
+    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ga    .    
+    Da    Pa    Ga    Da    Pa    Da    Pa    Ga    Ri    .    
+    Pa    Ga    Ri    Pa    Ga    Pa    Ga    Ri    Sa    .    
 
  7. Eka Taalam:
     =================================== 

@@ -28,9 +28,9 @@ Raaga: Bilahari
     Sa↑   Ni    Da    Sa↑   Ni    Da    Sa↑   Ni   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
  4. 
-    Sa    Ri    Ga    Pa    Da    .    Sa    Ri   
+    Sa    Ri    Ga    Pa    Da    .     Sa    Ri   
     Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   Ga↑  
-    Sa↑   Ni    Da    Pa    Ma    .    Sa↑   Ni   
+    Sa↑   Ni    Da    Pa    Ma    .     Sa↑   Ni   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
  5. 
     Sa    Ri    Ga    Pa    Da    Pa    Ga    Ri   
@@ -48,34 +48,34 @@ Raaga: Bilahari
     Sa↑   Ni    Da    Pa    Ma    Ga    Sa↑   Ni   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
  7. 
-    Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   .   
+    Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   .    
     Sa    Ri    Ga    Pa    Da    Sa↑   Ri↑   Ga↑  
-    Sa↑   Ni    Da    Pa    Ma    Ga    Ri    .   
+    Sa↑   Ni    Da    Pa    Ma    Ga    Ri    .    
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
 10. 
-    Sa    Ri    Ga    Pa    Da    .    Ga    Pa   
-    Da    .    .    .    Da    .    .    .   
+    Sa    Ri    Ga    Pa    Da    .     Ga    Pa   
+    Da    .     .     .     Da    .     .     .    
     Ga    Ma    Pa    Da    Ni    Da    Pa    Ma   
     Ga    Ma    Pa    Ga    Ma    Ga    Ri    Sa   
 11. 
-    Ga↑   .    Ri↑   Sa↑   Ri↑   .    Sa↑   Da   
-    Sa↑   .    Da    Pa    Da    .    Da    .   
+    Ga↑   .     Ri↑   Sa↑   Ri↑   .     Sa↑   Da   
+    Sa↑   .     Da    Pa    Da    .     Da    .    
     Ga    Ma    Pa    Da    Ni    Da    Pa    Ma   
     Ga    Ma    Pa    Ga    Ma    Ga    Ri    Sa   
 12. 
     Ga↑   Ga↑   Ri↑   Sa↑   Ri↑   Ri↑   Sa↑   Da   
-    Sa↑   Sa↑   Da    Pa    Da    .    Da    .   
+    Sa↑   Sa↑   Da    Pa    Da    .     Da    .    
     Ga    Ma    Pa    Da    Ni    Da    Pa    Ma   
     Ga    Ma    Pa    Ga    Ma    Ga    Ri    Sa   
 13. 
-    Sa    Ri    Ga    Ri    Ga    .    Ga    Pa   
-    Da    Pa    Da    .    Sa↑   Da    Sa↑   .   
+    Sa    Ri    Ga    Ri    Ga    .     Ga    Pa   
+    Da    Pa    Da    .     Sa↑   Da    Sa↑   .    
     Ma    Pa    Da    Pa    Da    Ni    Da    Pa   
     Ma    Pa    Da    Pa    Ma    Ga    Ri    Sa   
 14. 
-    Sa    Ri    Ga    Pa    Da    .    Da    .   
-    Sa↑   Sa↑   Da    .    Pa    Pa    Da    .   
-    Da    Ni    Sa↑   .    Sa↑   Ni    Da    Pa   
+    Sa    Ri    Ga    Pa    Da    .     Da    .    
+    Sa↑   Sa↑   Da    .     Pa    Pa    Da    .    
+    Da    Ni    Sa↑   .     Sa↑   Ni    Da    Pa   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
 
 
@@ -183,25 +183,25 @@ Raaga: Bilahari
 
  5. Atta Taalam:
     =================================== 
-    Sa    Ri    .    Ga    .    Sa    .    Ri    Ga    .    Pa    Pa   
-    Ri    Ga    .    Pa    .    Ri    .    Ga    Pa    .    Da    Da   
-    Ga    Pa    .    Da    .    Ga    .    Pa    Da    .    Sa↑   Sa↑  
-    Sa↑   Ni    .    Da    .    Sa↑   .    Ni    Da    .    Pa    Pa   
-    Ni    Da    .    Pa    .    Ni    .    Da    Pa    .    Ma    Ma   
-    Da    Pa    .    Ma    .    Da    .    Pa    Ma    .    Ga    Ga   
-    Pa    Ma    .    Ga    .    Pa    .    Ma    Ga    .    Ri    Ri   
-    Ma    Ga    .    Ri    .    Ma    .    Ga    Ri    .    Sa    Sa   
+    Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Pa    Pa   
+    Ri    Ga    .     Pa    .     Ri    .     Ga    Pa    .     Da    Da   
+    Ga    Pa    .     Da    .     Ga    .     Pa    Da    .     Sa↑   Sa↑  
+    Sa↑   Ni    .     Da    .     Sa↑   .     Ni    Da    .     Pa    Pa   
+    Ni    Da    .     Pa    .     Ni    .     Da    Pa    .     Ma    Ma   
+    Da    Pa    .     Ma    .     Da    .     Pa    Ma    .     Ga    Ga   
+    Pa    Ma    .     Ga    .     Pa    .     Ma    Ga    .     Ri    Ri   
+    Ma    Ga    .     Ri    .     Ma    .     Ga    Ri    .     Sa    Sa   
 
  6. Jampe Taalam:
     =================================== 
-    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Pa    .   
-    Ri    Ga    Pa    Ri    Ga    Ri    Ga    Pa    Da    .   
-    Ga    Pa    Da    Ga    Pa    Ga    Pa    Da    Sa↑   .   
-    Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Pa    .   
-    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .   
-    Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .   
-    Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .   
-    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .   
+    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Pa    .    
+    Ri    Ga    Pa    Ri    Ga    Ri    Ga    Pa    Da    .    
+    Ga    Pa    Da    Ga    Pa    Ga    Pa    Da    Sa↑   .    
+    Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Pa    .    
+    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .    
+    Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .    
+    Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .    
+    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .    
 
  7. Eka Taalam:
     =================================== 

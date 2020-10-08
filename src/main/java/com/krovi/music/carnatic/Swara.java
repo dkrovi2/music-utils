@@ -3,7 +3,7 @@ package com.krovi.music.carnatic;
 import java.util.function.Supplier;
 
 public final class Swara {
-  public static final String REPEAT = ".   ";
+  public static final String REPEAT = ".    ";
 
   public static class SwaraSupplier implements Supplier<Swara> {
     private Supplier<Swara> supplier;

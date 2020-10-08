@@ -28,9 +28,9 @@ Raaga: Kaambhoji
     Sa↑   Ni    Da    Sa↑   Ni    Da    Sa↑   Ni   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
  4. 
-    Sa    Ri    Ga    Ma    Pa    .    Sa    Ri   
+    Sa    Ri    Ga    Ma    Pa    .     Sa    Ri   
     Sa    Ri    Ga    Ma    Pa    Da    Sa↑   Ri↑  
-    Sa↑   Ni    Da    Pa    Ma    .    Sa↑   Ni   
+    Sa↑   Ni    Da    Pa    Ma    .     Sa↑   Ni   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
  5. 
     Sa    Ri    Ga    Ma    Pa    Ma    Ga    Ri   
@@ -48,34 +48,34 @@ Raaga: Kaambhoji
     Sa↑   Ni    Da    Pa    Ma    Ga    Sa↑   Ni   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
  7. 
-    Sa    Ri    Ga    Ma    Pa    Da    Sa↑   .   
+    Sa    Ri    Ga    Ma    Pa    Da    Sa↑   .    
     Sa    Ri    Ga    Ma    Pa    Da    Sa↑   Ri↑  
-    Sa↑   Ni    Da    Pa    Ma    Ga    Ri    .   
+    Sa↑   Ni    Da    Pa    Ma    Ga    Ri    .    
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
 10. 
-    Sa    Ri    Ga    Ma    Pa    .    Ga    Ma   
-    Pa    .    .    .    Pa    .    .    .   
+    Sa    Ri    Ga    Ma    Pa    .     Ga    Ma   
+    Pa    .     .     .     Pa    .     .     .    
     Ga    Ma    Pa    Da    Ni    Da    Pa    Ma   
     Ga    Ma    Pa    Ga    Ma    Ga    Ri    Sa   
 11. 
-    Ri↑   .    Sa↑   Da    Sa↑   .    Da    Pa   
-    Da    .    Pa    Ma    Pa    .    Pa    .   
+    Ri↑   .     Sa↑   Da    Sa↑   .     Da    Pa   
+    Da    .     Pa    Ma    Pa    .     Pa    .    
     Ga    Ma    Pa    Da    Ni    Da    Pa    Ma   
     Ga    Ma    Pa    Ga    Ma    Ga    Ri    Sa   
 12. 
     Ri↑   Ri↑   Sa↑   Da    Sa↑   Sa↑   Da    Pa   
-    Da    Da    Pa    Ma    Pa    .    Pa    .   
+    Da    Da    Pa    Ma    Pa    .     Pa    .    
     Ga    Ma    Pa    Da    Ni    Da    Pa    Ma   
     Ga    Ma    Pa    Ga    Ma    Ga    Ri    Sa   
 13. 
-    Sa    Ri    Ga    Ri    Ga    .    Ga    Ma   
-    Pa    Ma    Pa    .    Da    Pa    Da    .   
+    Sa    Ri    Ga    Ri    Ga    .     Ga    Ma   
+    Pa    Ma    Pa    .     Da    Pa    Da    .    
     Ma    Pa    Da    Pa    Da    Ni    Da    Pa   
     Ma    Pa    Da    Pa    Ma    Ga    Ri    Sa   
 14. 
-    Sa    Ri    Ga    Ma    Pa    .    Pa    .   
-    Da    Da    Pa    .    Ma    Ma    Pa    .   
-    Da    Ni    Sa↑   .    Sa↑   Ni    Da    Pa   
+    Sa    Ri    Ga    Ma    Pa    .     Pa    .    
+    Da    Da    Pa    .     Ma    Ma    Pa    .    
+    Da    Ni    Sa↑   .     Sa↑   Ni    Da    Pa   
     Sa↑   Ni    Da    Pa    Ma    Ga    Ri    Sa   
 
 
@@ -198,27 +198,27 @@ Raaga: Kaambhoji
 
  5. Atta Taalam:
     =================================== 
-    Sa    Ri    .    Ga    .    Sa    .    Ri    Ga    .    Ma    Ma   
-    Ri    Ga    .    Ma    .    Ri    .    Ga    Ma    .    Pa    Pa   
-    Ga    Ma    .    Pa    .    Ga    .    Ma    Pa    .    Da    Da   
-    Ma    Pa    .    Da    .    Ma    .    Pa    Da    .    Sa↑   Sa↑  
-    Sa↑   Ni    .    Da    .    Sa↑   .    Ni    Da    .    Pa    Pa   
-    Ni    Da    .    Pa    .    Ni    .    Da    Pa    .    Ma    Ma   
-    Da    Pa    .    Ma    .    Da    .    Pa    Ma    .    Ga    Ga   
-    Pa    Ma    .    Ga    .    Pa    .    Ma    Ga    .    Ri    Ri   
-    Ma    Ga    .    Ri    .    Ma    .    Ga    Ri    .    Sa    Sa   
+    Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Ma    Ma   
+    Ri    Ga    .     Ma    .     Ri    .     Ga    Ma    .     Pa    Pa   
+    Ga    Ma    .     Pa    .     Ga    .     Ma    Pa    .     Da    Da   
+    Ma    Pa    .     Da    .     Ma    .     Pa    Da    .     Sa↑   Sa↑  
+    Sa↑   Ni    .     Da    .     Sa↑   .     Ni    Da    .     Pa    Pa   
+    Ni    Da    .     Pa    .     Ni    .     Da    Pa    .     Ma    Ma   
+    Da    Pa    .     Ma    .     Da    .     Pa    Ma    .     Ga    Ga   
+    Pa    Ma    .     Ga    .     Pa    .     Ma    Ga    .     Ri    Ri   
+    Ma    Ga    .     Ri    .     Ma    .     Ga    Ri    .     Sa    Sa   
 
  6. Jampe Taalam:
     =================================== 
-    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Ma    .   
-    Ri    Ga    Ma    Ri    Ga    Ri    Ga    Ma    Pa    .   
-    Ga    Ma    Pa    Ga    Ma    Ga    Ma    Pa    Da    .   
-    Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Sa↑   .   
-    Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Pa    .   
-    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .   
-    Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .   
-    Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .   
-    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .   
+    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Ma    .    
+    Ri    Ga    Ma    Ri    Ga    Ri    Ga    Ma    Pa    .    
+    Ga    Ma    Pa    Ga    Ma    Ga    Ma    Pa    Da    .    
+    Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Sa↑   .    
+    Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Pa    .    
+    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .    
+    Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .    
+    Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .    
+    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .    
 
  7. Eka Taalam:
     =================================== 
