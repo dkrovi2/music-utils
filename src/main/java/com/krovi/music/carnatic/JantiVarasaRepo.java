@@ -1,5 +1,6 @@
 package com.krovi.music.carnatic;
 
+import static com.krovi.music.carnatic.MusicUtil.s;
 import java.util.Collection;
 import java.util.List;
 import java.util.function.Function;
@@ -106,30 +107,8 @@ public class JantiVarasaRepo {
   public static final List<Function<Raaga, String>> jantiVarasaList =
       List.of(jantiVarasa1, jantiVarasa2, jantiVarasa3, jantiVarasa4, jantiVarasa5);
 
-  protected static String s(
-      final Raaga raaga,
-      final int number,
-      final List<List<Integer>> aarohanaPatterns,
-      final List<List<Integer>> avarohanaPatterns) {
-    return String.format(
-        "%2d. %s%s%n",
-        number,
-        aarohanaPatterns.stream()
-            .map(pattern -> s(pattern, raaga.getMoorchana().getLeft()))
-            .collect(Collectors.joining()),
-        avarohanaPatterns.stream()
-            .map(pattern -> s(pattern, raaga.getMoorchana().getRight()))
-            .collect(Collectors.joining()));
-  }
-
-  private static String s(final List<Integer> pattern, final SwaraList list) {
-    return String.format("%n    %s", String.join(" ", list.applyPattern(pattern)));
-  }
-
   public static String jantisFor(final Raaga raaga) {
-    return jantiVarasaList.stream()
-        .map(jantiVarasa -> jantiVarasa.apply(raaga))
-        .collect(Collectors.joining());
+    return jantiVarasaList.stream().map(j -> j.apply(raaga)).collect(Collectors.joining());
   }
 
   private JantiVarasaRepo() {
