@@ -3,6 +3,8 @@ package com.krovi.music.carnatic;
 public interface Labels {
   String languageSuffix();
 
+  String raagam();
+
   String moorchana();
 
   String aarohana();
@@ -31,46 +33,47 @@ public interface Labels {
 
   String eka();
 
-  String SA_L();
+  Swara SA_L();
 
-  String RI_L();
+  Swara RI_L();
 
-  String GA_L();
+  Swara GA_L();
 
-  String MA_L();
+  Swara MA_L();
 
-  String PA_L();
+  Swara PA_L();
 
-  String DA_L();
+  Swara DA_L();
 
-  String NI_L();
+  Swara NI_L();
 
-  String SA();
+  Swara SA();
 
-  String RI();
+  Swara RI();
 
-  String GA();
+  Swara GA();
 
-  String MA();
+  Swara MA();
 
-  String PA();
+  Swara PA();
 
-  String DA();
+  Swara DA();
 
-  String NI();
+  Swara NI();
 
-  String SA_H();
+  Swara SA_H();
 
-  String RI_H();
+  Swara RI_H();
 
-  String GA_H();
+  Swara GA_H();
 
-  String MA_H();
+  Swara MA_H();
 
-  String PA_H();
+  Swara PA_H();
 
-  String DA_H();
+  Swara DA_H();
 
-  String NI_H();
+  Swara NI_H();
+
 
 }

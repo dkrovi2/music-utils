@@ -2,9 +2,10 @@ package com.krovi.music.carnatic;
 
 public class TeluguLabels implements Labels {
   public static final TeluguLabels INSTANCE = new TeluguLabels();
-  public static final String SUFFIX = "telugu";
+  public static final String SUFFIX = "tg";
 
   public String languageSuffix() {return SUFFIX;}
+  public String raagam() { return "రాగము";}
   public String moorchana() { return "మూర్ఛన";}
   public String aarohana() {return "ఆరోహణము";}
   public String avarohana() {return "ఆవరోహణము";}
@@ -20,27 +21,27 @@ public class TeluguLabels implements Labels {
   public String jhampe() { return "జంపె తాళం"; }
   public String eka() { return "ఏక తాళం"; }
 
-  public String SA_L() { return "స↓  ";}
-  public String RI_L() { return "రి↓  ";}
-  public String GA_L() { return "గ↓  ";}
-  public String MA_L() { return "మ↓  ";}
-  public String PA_L() { return "ప↓  ";}
-  public String DA_L() { return "ద↓  ";}
-  public String NI_L() { return "ని↓  ";}
-  public String SA() { return "స   ";}
-  public String RI() { return "రి   ";}
-  public String GA() { return "గ   ";}
-  public String MA() { return "మ   ";}
-  public String PA() { return "ప   ";}
-  public String DA() { return "ద   ";}
-  public String NI() { return "ని   ";}
-  public String SA_H() { return "స↑  ";}
-  public String RI_H() { return "రి↑  ";}
-  public String GA_H() { return "గ↑  ";}
-  public String MA_H() { return "మ↑  ";}
-  public String PA_H() { return "ప↑  ";}
-  public String DA_H() { return "ద↑  ";}
-  public String NI_H() { return "ని↑  ";}
+  public Swara SA_L() { return Swara.of("స↓  ");}
+  public Swara RI_L() { return Swara.of("రి↓  ");}
+  public Swara GA_L() { return Swara.of("గ↓  ");}
+  public Swara MA_L() { return Swara.of("మ↓  ");}
+  public Swara PA_L() { return Swara.of("ప↓  ");}
+  public Swara DA_L() { return Swara.of("ద↓  ");}
+  public Swara NI_L() { return Swara.of("ని↓  ");}
+  public Swara SA() { return Swara.of("స   ");}
+  public Swara RI() { return Swara.of("రి   ");}
+  public Swara GA() { return Swara.of("గ   ");}
+  public Swara MA() { return Swara.of("మ   ");}
+  public Swara PA() { return Swara.of("ప   ");}
+  public Swara DA() { return Swara.of("ద   ");}
+  public Swara NI() { return Swara.of("ని   ");}
+  public Swara SA_H() { return Swara.of("స↑  ");}
+  public Swara RI_H() { return Swara.of("రి↑  ");}
+  public Swara GA_H() { return Swara.of("గ↑  ");}
+  public Swara MA_H() { return Swara.of("మ↑  ");}
+  public Swara PA_H() { return Swara.of("ప↑  ");}
+  public Swara DA_H() { return Swara.of("ద↑  ");}
+  public Swara NI_H() { return Swara.of("ని↑  ");}
 
   private TeluguLabels() {
     // Not expected to be instantiated outside this class.

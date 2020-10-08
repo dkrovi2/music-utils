@@ -1,0 +1,280 @@
+
+
+Raaga: Jinjhoti
+
+        Sarali Varasa
+===============================================================
+ 1. 
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 2. 
+    Da↓   Sa    Ri    Ga    Da↓   Sa    Ri    Ga   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ni    Da    Pa    Ma   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 2. 
+    Da↓   Sa    Da↓   Sa    Da↓   Sa    Ri    Ga   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Ni    Da    Ni    Da    Pa    Ma   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 3. 
+    Da↓   Sa    Ri    Ga    Da↓   Sa    Da↓   Sa   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ni    Da    Ni    Da   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 3. 
+    Da↓   Sa    Ri    Da↓   Sa    Ri    Da↓   Sa   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ni    Da    Pa    Ni    Da   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 4. 
+    Da↓   Sa    Ri    Ga    Ma    .    Da↓   Sa   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ga    .    Ni    Da   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 5. 
+    Da↓   Sa    Ri    Ga    Ma    Ga    Ri    Sa   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ga    Ma    Pa    Da   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 6. 
+    Da↓   Sa    Ri    Ga    Ma    Ga    Pa    Ma   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ga    Ma    Ri    Ga   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 6. 
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da↓   Sa   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ga    Ri    Ni    Da   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+ 7. 
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    .   
+    Da↓   Sa    Ri    Ga    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    .   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+10. 
+    Da↓   Sa    Ri    Ga    Ma    .    Ri    Ga   
+    Ma    .    .    .    Ma    .    .    .   
+    Ri    Ga    Ma    Pa    Da    Pa    Ma    Ga   
+    Ri    Ga    Ma    Ri    Ga    Ri    Sa    Ni↓  
+11. 
+    Ni    .    Da    Pa    Da    .    Pa    Ma   
+    Pa    .    Ma    Ga    Ma    .    Ma    .   
+    Ri    Ga    Ma    Pa    Da    Pa    Ma    Ga   
+    Ri    Ga    Ma    Ri    Ga    Ri    Sa    Ni↓  
+12. 
+    Ni    Ni    Da    Pa    Da    Da    Pa    Ma   
+    Pa    Pa    Ma    Ga    Ma    .    Ma    .   
+    Ri    Ga    Ma    Pa    Da    Pa    Ma    Ga   
+    Ri    Ga    Ma    Ri    Ga    Ri    Sa    Ni↓  
+13. 
+    Da↓   Sa    Ri    Sa    Ri    .    Ri    Ga   
+    Ma    Ga    Ma    .    Pa    Ma    Pa    .   
+    Ga    Ma    Pa    Ma    Pa    Da    Pa    Ma   
+    Ga    Ma    Pa    Ma    Ga    Ri    Sa    Ni↓  
+14. 
+    Da↓   Sa    Ri    Ga    Ma    .    Ma    .   
+    Pa    Pa    Ma    .    Ga    Ga    Ma    .   
+    Pa    Da    Ni    .    Ni    Da    Pa    Ma   
+    Ni    Da    Pa    Ma    Ga    Ri    Sa    Ni↓  
+
+
+        Janti Varasa
+===============================================================
+ 1. 
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+
+ 2. 
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma   
+    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa   
+    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
+    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+
+ 3. 
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Sa    Sa   
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ri    Ri   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma   
+    Ri    Ri    Ga    Ga    Ma    Ma    Ga    Ga   
+    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa   
+    Ga    Ga    Ma    Ma    Pa    Pa    Ma    Ma   
+    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
+    Ma    Ma    Pa    Pa    Da    Da    Pa    Pa   
+    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+
+ 4. 
+    Da↓   Da↓   Sa    Sa    Ri    Da↓   Sa    Ri   
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga   
+    Sa    Sa    Ri    Ri    Ga    Sa    Ri    Ga   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma   
+    Ri    Ri    Ga    Ga    Ma    Ri    Ga    Ma   
+    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa   
+    Ga    Ga    Ma    Ma    Pa    Ga    Ma    Pa   
+    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
+    Ma    Ma    Pa    Pa    Da    Ma    Pa    Da   
+    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+
+ 4. 
+    Ga    Ga    Ri    Ri    Sa    Sa    Ri    Ri   
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga   
+    Ma    Ma    Ga    Ga    Ri    Ri    Ga    Ga   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ma    Ma   
+    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa   
+    Da    Da    Pa    Pa    Ma    Ma    Pa    Pa   
+    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
+    Ni    Ni    Da    Da    Pa    Pa    Da    Da   
+    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+
+
+
+        Dhaatu Varasa
+===============================================================
+ 1. 
+    Da↓   Sa    Da↓   Ri    Da↓   Ga    Ri    Sa   
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga   
+    Sa    Ri    Sa    Ga    Sa    Ma    Ga    Ri   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma   
+    Ri    Ga    Ri    Ma    Ri    Pa    Ma    Ga   
+    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa   
+    Ga    Ma    Ga    Pa    Ga    Da    Pa    Ma   
+    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
+    Ma    Pa    Ma    Da    Ma    Ni    Da    Pa   
+    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+
+ 2. 
+    Da↓   Ga    Ri    Ga    Sa    Ri    Da↓   Sa   
+    Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga   
+    Sa    Ma    Ga    Ma    Ri    Ga    Sa    Ri   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma   
+    Ri    Pa    Ma    Pa    Ga    Ma    Ri    Ga   
+    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa   
+    Ga    Da    Pa    Da    Ma    Pa    Ga    Ma   
+    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
+    Ma    Ni    Da    Ni    Pa    Da    Ma    Pa   
+    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+
+
+
+        Alankaaram
+===============================================================
+ 1. Roopaka Taalam:
+    =================================== 
+    Da↓   Sa    Da↓   Sa    Ri    Ga   
+    Sa    Ri    Sa    Ri    Ga    Ma   
+    Ri    Ga    Ri    Ga    Ma    Pa   
+    Ga    Ma    Ga    Ma    Pa    Da   
+    Ma    Pa    Ma    Pa    Da    Ni   
+    Ni    Da    Ni    Da    Pa    Ma   
+    Da    Pa    Da    Pa    Ma    Ga   
+    Pa    Ma    Pa    Ma    Ga    Ri   
+    Ma    Ga    Ma    Ga    Ri    Sa   
+    Ga    Ri    Ga    Ri    Sa    Ni↓  
+    Ri    Sa    Ri    Sa    Ni↓   Da↓  
+    Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓  
+    Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓  
+    Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa   
+
+ 2. Triputa Taalam:
+    =================================== 
+    Da↓   Sa    Ri    Da↓   Sa    Ri    Ga   
+    Sa    Ri    Ga    Sa    Ri    Ga    Ma   
+    Ri    Ga    Ma    Ri    Ga    Ma    Pa   
+    Ga    Ma    Pa    Ga    Ma    Pa    Da   
+    Ma    Pa    Da    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ni    Da    Pa    Ma   
+    Da    Pa    Ma    Da    Pa    Ma    Ga   
+    Pa    Ma    Ga    Pa    Ma    Ga    Ri   
+    Ma    Ga    Ri    Ma    Ga    Ri    Sa   
+    Ga    Ri    Sa    Ga    Ri    Sa    Ni↓  
+    Ri    Sa    Ni↓   Ri    Sa    Ni↓   Da↓  
+    Sa    Ni↓   Da↓   Sa    Ni↓   Da↓   Pa↓  
+    Ni↓   Da↓   Pa↓   Ni↓   Da↓   Pa↓   Da↓  
+    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Sa   
+
+ 3. Matya Taalam:
+    =================================== 
+    Da↓   Sa    Ri    Sa    Da↓   Sa    Da↓   Sa    Ri    Ga   
+    Sa    Ri    Ga    Ri    Sa    Ri    Sa    Ri    Ga    Ma   
+    Ri    Ga    Ma    Ga    Ri    Ga    Ri    Ga    Ma    Pa   
+    Ga    Ma    Pa    Ma    Ga    Ma    Ga    Ma    Pa    Da   
+    Ma    Pa    Da    Pa    Ma    Pa    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Da    Ni    Da    Ni    Da    Pa    Ma   
+    Da    Pa    Ma    Pa    Da    Pa    Da    Pa    Ma    Ga   
+    Pa    Ma    Ga    Ma    Pa    Ma    Pa    Ma    Ga    Ri   
+    Ma    Ga    Ri    Ga    Ma    Ga    Ma    Ga    Ri    Sa   
+    Ga    Ri    Sa    Ri    Ga    Ri    Ga    Ri    Sa    Ni↓  
+    Ri    Sa    Ni↓   Sa    Ri    Sa    Ri    Sa    Ni↓   Da↓  
+    Sa    Ni↓   Da↓   Ni↓   Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓  
+    Ni↓   Da↓   Pa↓   Da↓   Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓  
+    Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa   
+
+ 4. Dhruva Taalam:
+    =================================== 
+    Da↓   Sa    Ri    Ga    Ri    Sa    Da↓   Sa    Ri    Sa    Da↓   Sa    Ri    Ga   
+    Sa    Ri    Ga    Ma    Ga    Ri    Sa    Ri    Ga    Ri    Sa    Ri    Ga    Ma   
+    Ri    Ga    Ma    Pa    Ma    Ga    Ri    Ga    Ma    Ga    Ri    Ga    Ma    Pa   
+    Ga    Ma    Pa    Da    Pa    Ma    Ga    Ma    Pa    Ma    Ga    Ma    Pa    Da   
+    Ma    Pa    Da    Ni    Da    Pa    Ma    Pa    Da    Pa    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma    Pa    Da    Ni    Da    Pa    Da    Ni    Da    Pa    Ma   
+    Da    Pa    Ma    Ga    Ma    Pa    Da    Pa    Ma    Pa    Da    Pa    Ma    Ga   
+    Pa    Ma    Ga    Ri    Ga    Ma    Pa    Ma    Ga    Ma    Pa    Ma    Ga    Ri   
+    Ma    Ga    Ri    Sa    Ri    Ga    Ma    Ga    Ri    Ga    Ma    Ga    Ri    Sa   
+    Ga    Ri    Sa    Ni↓   Sa    Ri    Ga    Ri    Sa    Ri    Ga    Ri    Sa    Ni↓  
+    Ri    Sa    Ni↓   Da↓   Ni↓   Sa    Ri    Sa    Ni↓   Sa    Ri    Sa    Ni↓   Da↓  
+    Sa    Ni↓   Da↓   Pa↓   Da↓   Ni↓   Sa    Ni↓   Da↓   Ni↓   Sa    Ni↓   Da↓   Pa↓  
+    Ni↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Ni↓   Da↓   Pa↓   Da↓   Ni↓   Da↓   Pa↓   Da↓  
+    Da↓   Pa↓   Da↓   Sa    Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa   
+
+ 5. Atta Taalam:
+    =================================== 
+    Da↓   Sa    .    Ri    .    Da↓   .    Sa    Ri    .    Ga    Ga   
+    Sa    Ri    .    Ga    .    Sa    .    Ri    Ga    .    Ma    Ma   
+    Ri    Ga    .    Ma    .    Ri    .    Ga    Ma    .    Pa    Pa   
+    Ga    Ma    .    Pa    .    Ga    .    Ma    Pa    .    Da    Da   
+    Ma    Pa    .    Da    .    Ma    .    Pa    Da    .    Ni    Ni   
+    Ni    Da    .    Pa    .    Ni    .    Da    Pa    .    Ma    Ma   
+    Da    Pa    .    Ma    .    Da    .    Pa    Ma    .    Ga    Ga   
+    Pa    Ma    .    Ga    .    Pa    .    Ma    Ga    .    Ri    Ri   
+    Ma    Ga    .    Ri    .    Ma    .    Ga    Ri    .    Sa    Sa   
+    Ga    Ri    .    Sa    .    Ga    .    Ri    Sa    .    Ni↓   Ni↓  
+    Ri    Sa    .    Ni↓   .    Ri    .    Sa    Ni↓   .    Da↓   Da↓  
+    Sa    Ni↓   .    Da↓   .    Sa    .    Ni↓   Da↓   .    Pa↓   Pa↓  
+    Ni↓   Da↓   .    Pa↓   .    Ni↓   .    Da↓   Pa↓   .    Da↓   Da↓  
+    Da↓   Pa↓   .    Da↓   .    Da↓   .    Pa↓   Da↓   .    Sa    Sa   
+
+ 6. Jampe Taalam:
+    =================================== 
+    Da↓   Sa    Ri    Da↓   Sa    Da↓   Sa    Ri    Ga    .   
+    Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Ma    .   
+    Ri    Ga    Ma    Ri    Ga    Ri    Ga    Ma    Pa    .   
+    Ga    Ma    Pa    Ga    Ma    Ga    Ma    Pa    Da    .   
+    Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Ni    .   
+    Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .   
+    Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .   
+    Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .   
+    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .   
+    Ga    Ri    Sa    Ga    Ri    Ga    Ri    Sa    Ni↓   .   
+    Ri    Sa    Ni↓   Ri    Sa    Ri    Sa    Ni↓   Da↓   .   
+    Sa    Ni↓   Da↓   Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓   .   
+    Ni↓   Da↓   Pa↓   Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓   .   
+    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    .   
+
+ 7. Eka Taalam:
+    =================================== 
+    Da↓   Sa    Ri    Ga   
+    Sa    Ri    Ga    Ma   
+    Ri    Ga    Ma    Pa   
+    Ga    Ma    Pa    Da   
+    Ma    Pa    Da    Ni   
+    Ni    Da    Pa    Ma   
+    Da    Pa    Ma    Ga   
+    Pa    Ma    Ga    Ri   
+    Ma    Ga    Ri    Sa   
+    Ga    Ri    Sa    Ni↓  
+    Ri    Sa    Ni↓   Da↓  
+    Sa    Ni↓   Da↓   Pa↓  
+    Ni↓   Da↓   Pa↓   Da↓  
+    Da↓   Pa↓   Da↓   Sa   
+

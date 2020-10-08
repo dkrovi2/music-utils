@@ -11,6 +11,10 @@ public class LabelsDelegate {
 
   public static Labels getLabels() { return labels;}
 
+  public static String raagam() {
+    return labels.raagam();
+  }
+
   public static String aarohana() {
     return labels.aarohana();
   }
@@ -19,9 +23,7 @@ public class LabelsDelegate {
     return labels.avarohana();
   }
 
-  public static String saralis() {
-    return labels.saralis();
-  }
+  public static String saralis() { return labels.saralis(); }
 
   public static String jantis() {
     return labels.jantis();

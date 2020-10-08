@@ -6,7 +6,10 @@ public class MusicRepo {
   }
 
   public static String generateAllFor(final Raaga raaga) {
-    return ""
+    return "\n\n"
+        + LabelsDelegate.raagam()
+        + ": "
+        + raaga.name(LabelsDelegate.getLabels().languageSuffix())
         + "\n\n        "
         + LabelsDelegate.saralis()
         + "\n===============================================================\n"

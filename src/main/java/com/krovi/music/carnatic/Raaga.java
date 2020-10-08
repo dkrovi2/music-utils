@@ -2,22 +2,24 @@ package com.krovi.music.carnatic;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
+import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import org.apache.commons.lang3.tuple.Pair;
 
 public final class Raaga {
-  private final String name;
+  private final Map<String, String> name;
   private final String fileName;
   private final Pair<SwaraList, SwaraList> moorchana;
   private final SwaraList aarohana;
   private final SwaraList avarohana;
 
   private Raaga(
-      final String name,
+      final Map<String, String> name,
       final String fileName,
-      final Pair<List<String>, List<String>> moorchana,
-      final List<String> aarohana,
-      final List<String> avarohana) {
+      final Pair<List<Supplier<Swara>>, List<Supplier<Swara>>> moorchana,
+      final List<Supplier<Swara>> aarohana,
+      final List<Supplier<Swara>> avarohana) {
     this.name = name;
     this.fileName = fileName;
     this.moorchana = Pair.of(SwaraList.of(moorchana.getKey()), SwaraList.of(moorchana.getValue()));
@@ -40,8 +42,8 @@ public final class Raaga {
     return list;
   }
 
-  public String name() {
-    return name;
+  public String name(final String languageSuffix) {
+    return name.getOrDefault(languageSuffix, "NOT AVAILABLE IN " + languageSuffix);
   }
 
   public String fileName() {
@@ -81,13 +83,13 @@ public final class Raaga {
   }
 
   public static class RaagaBuilder {
-    private String name;
+    private Map<String, String> name;
     private String fileName;
-    private Pair<List<String>, List<String>> moorchana;
-    private List<String> aarohana;
-    private List<String> avarohana;
+    private Pair<List<Supplier<Swara>>, List<Supplier<Swara>>> moorchana;
+    private List<Supplier<Swara>> aarohana;
+    private List<Supplier<Swara>> avarohana;
 
-    public RaagaBuilder name(final String name) {
+    public RaagaBuilder name(final Map<String, String> name) {
       this.name = name;
       return this;
     }
@@ -97,17 +99,18 @@ public final class Raaga {
       return this;
     }
 
-    public RaagaBuilder moorchana(final Pair<List<String>, List<String>> moorchana) {
+    public RaagaBuilder moorchana(
+        final Pair<List<Supplier<Swara>>, List<Supplier<Swara>>> moorchana) {
       this.moorchana = moorchana;
       return this;
     }
 
-    public RaagaBuilder aaorhana(final List<String> aarohana) {
+    public RaagaBuilder aaorhana(final List<Supplier<Swara>> aarohana) {
       this.aarohana = aarohana;
       return this;
     }
 
-    public RaagaBuilder avaorhana(final List<String> avarohana) {
+    public RaagaBuilder avaorhana(final List<Supplier<Swara>> avarohana) {
       this.avarohana = avarohana;
       return this;
     }

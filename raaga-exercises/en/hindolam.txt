@@ -1,0 +1,202 @@
+
+
+Raaga: Hindolam
+
+        Sarali Varasa
+===============================================================
+ 1. 
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 2. 
+    Sa    Ga    Ma    Da    Sa    Ga    Ma    Da   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Ma↑   Ga↑   Sa↑   Ni   
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 2. 
+    Sa    Ga    Sa    Ga    Sa    Ga    Ma    Da   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Ma↑   Ga↑   Ma↑   Ga↑   Sa↑   Ni   
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 3. 
+    Sa    Ga    Ma    Da    Sa    Ga    Sa    Ga   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Ma↑   Ga↑   Ma↑   Ga↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 3. 
+    Sa    Ga    Ma    Sa    Ga    Ma    Sa    Ga   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ma↑   Ga↑   Sa↑   Ma↑   Ga↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 4. 
+    Sa    Ga    Ma    Da    Ni    .    Sa    Ga   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    .    Ma↑   Ga↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 5. 
+    Sa    Ga    Ma    Da    Ni    Da    Ma    Ga   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ni    Sa↑   Ga↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 6. 
+    Sa    Ga    Ma    Da    Ni    Da    Sa↑   Ni   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ni    Ma    Da   
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 6. 
+    Sa    Ga    Ma    Da    Ni    Sa↑   Sa    Ga   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ma↑   Ga↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+ 7. 
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   .   
+    Sa    Ga    Ma    Da    Ni    Sa↑   Ga↑   Ma↑  
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    .   
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+10. 
+    Sa    Ga    Ma    Da    Ni    .    Ma    Da   
+    Ni    .    .    .    Ni    .    .    .   
+    Ma    Da    Ni    Sa↑   Ga↑   Sa↑   Ni    Da   
+    Ma    Da    Ni    Ma    Da    Ma    Ga    Sa   
+11. 
+    Ma↑   .    Ga↑   Sa↑   Ga↑   .    Sa↑   Ni   
+    Sa↑   .    Ni    Da    Ni    .    Ni    .   
+    Ma    Da    Ni    Sa↑   Ga↑   Sa↑   Ni    Da   
+    Ma    Da    Ni    Ma    Da    Ma    Ga    Sa   
+12. 
+    Ma↑   Ma↑   Ga↑   Sa↑   Ga↑   Ga↑   Sa↑   Ni   
+    Sa↑   Sa↑   Ni    Da    Ni    .    Ni    .   
+    Ma    Da    Ni    Sa↑   Ga↑   Sa↑   Ni    Da   
+    Ma    Da    Ni    Ma    Da    Ma    Ga    Sa   
+13. 
+    Sa    Ga    Ma    Ga    Ma    .    Ma    Da   
+    Ni    Da    Ni    .    Sa↑   Ni    Sa↑   .   
+    Da    Ni    Sa↑   Ni    Sa↑   Ga↑   Sa↑   Ni   
+    Da    Ni    Sa↑   Ni    Da    Ma    Ga    Sa   
+14. 
+    Sa    Ga    Ma    Da    Ni    .    Ni    .   
+    Sa↑   Sa↑   Ni    .    Da    Da    Ni    .   
+    Sa↑   Ga↑   Ma↑   .    Ma↑   Ga↑   Sa↑   Ni   
+    Ma↑   Ga↑   Sa↑   Ni    Da    Ma    Ga    Sa   
+
+
+        Janti Varasa
+===============================================================
+ 1. 
+    Sa    Sa    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+
+ 2. 
+    Sa    Sa    Ga    Ga    Ma    Ma    Da    Da   
+    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
+    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+
+ 3. 
+    Sa    Sa    Ga    Ga    Ma    Ma    Ga    Ga   
+    Sa    Sa    Ga    Ga    Ma    Ma    Da    Da   
+    Ga    Ga    Ma    Ma    Da    Da    Ma    Ma   
+    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
+    Ma    Ma    Da    Da    Ni    Ni    Da    Da   
+    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+
+ 4. 
+    Sa    Sa    Ga    Ga    Ma    Sa    Ga    Ma   
+    Sa    Sa    Ga    Ga    Ma    Ma    Da    Da   
+    Ga    Ga    Ma    Ma    Da    Ga    Ma    Da   
+    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
+    Ma    Ma    Da    Da    Ni    Ma    Da    Ni   
+    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+
+ 4. 
+    Da    Da    Ma    Ma    Ga    Ga    Ma    Ma   
+    Sa    Sa    Ga    Ga    Ma    Ma    Da    Da   
+    Ni    Ni    Da    Da    Ma    Ma    Da    Da   
+    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ni    Ni   
+    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+
+
+
+        Dhaatu Varasa
+===============================================================
+ 1. 
+    Sa    Ga    Sa    Ma    Sa    Da    Ma    Ga   
+    Sa    Sa    Ga    Ga    Ma    Ma    Da    Da   
+    Ga    Ma    Ga    Da    Ga    Ni    Da    Ma   
+    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
+    Ma    Da    Ma    Ni    Ma    Sa↑   Ni    Da   
+    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+
+ 2. 
+    Sa    Da    Ma    Da    Ga    Ma    Sa    Ga   
+    Sa    Sa    Ga    Ga    Ma    Ma    Da    Da   
+    Ga    Ni    Da    Ni    Ma    Da    Ga    Ma   
+    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
+    Ma    Sa↑   Ni    Sa↑   Da    Ni    Ma    Da   
+    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+
+
+
+        Alankaaram
+===============================================================
+ 1. Roopaka Taalam:
+    =================================== 
+    Sa    Ga    Sa    Ga    Ma    Da   
+    Ga    Ma    Ga    Ma    Da    Ni   
+    Ma    Da    Ma    Da    Ni    Sa↑  
+    Sa↑   Ni    Sa↑   Ni    Da    Ma   
+    Ni    Da    Ni    Da    Ma    Ga   
+    Da    Ma    Da    Ma    Ga    Sa   
+
+ 2. Triputa Taalam:
+    =================================== 
+    Sa    Ga    Ma    Sa    Ga    Ma    Da   
+    Ga    Ma    Da    Ga    Ma    Da    Ni   
+    Ma    Da    Ni    Ma    Da    Ni    Sa↑  
+    Sa↑   Ni    Da    Sa↑   Ni    Da    Ma   
+    Ni    Da    Ma    Ni    Da    Ma    Ga   
+    Da    Ma    Ga    Da    Ma    Ga    Sa   
+
+ 3. Matya Taalam:
+    =================================== 
+    Sa    Ga    Ma    Ga    Sa    Ga    Sa    Ga    Ma    Da   
+    Ga    Ma    Da    Ma    Ga    Ma    Ga    Ma    Da    Ni   
+    Ma    Da    Ni    Da    Ma    Da    Ma    Da    Ni    Sa↑  
+    Sa↑   Ni    Da    Ni    Sa↑   Ni    Sa↑   Ni    Da    Ma   
+    Ni    Da    Ma    Da    Ni    Da    Ni    Da    Ma    Ga   
+    Da    Ma    Ga    Ma    Da    Ma    Da    Ma    Ga    Sa   
+
+ 4. Dhruva Taalam:
+    =================================== 
+    Sa    Ga    Ma    Da    Ma    Ga    Sa    Ga    Ma    Ga    Sa    Ga    Ma    Da   
+    Ga    Ma    Da    Ni    Da    Ma    Ga    Ma    Da    Ma    Ga    Ma    Da    Ni   
+    Ma    Da    Ni    Sa↑   Ni    Da    Ma    Da    Ni    Da    Ma    Da    Ni    Sa↑  
+    Sa↑   Ni    Da    Ma    Da    Ni    Sa↑   Ni    Da    Ni    Sa↑   Ni    Da    Ma   
+    Ni    Da    Ma    Ga    Ma    Da    Ni    Da    Ma    Da    Ni    Da    Ma    Ga   
+    Da    Ma    Ga    Sa    Ga    Ma    Da    Ma    Ga    Ma    Da    Ma    Ga    Sa   
+
+ 5. Atta Taalam:
+    =================================== 
+    Sa    Ga    .    Ma    .    Sa    .    Ga    Ma    .    Da    Da   
+    Ga    Ma    .    Da    .    Ga    .    Ma    Da    .    Ni    Ni   
+    Ma    Da    .    Ni    .    Ma    .    Da    Ni    .    Sa↑   Sa↑  
+    Sa↑   Ni    .    Da    .    Sa↑   .    Ni    Da    .    Ma    Ma   
+    Ni    Da    .    Ma    .    Ni    .    Da    Ma    .    Ga    Ga   
+    Da    Ma    .    Ga    .    Da    .    Ma    Ga    .    Sa    Sa   
+
+ 6. Jampe Taalam:
+    =================================== 
+    Sa    Ga    Ma    Sa    Ga    Sa    Ga    Ma    Da    .   
+    Ga    Ma    Da    Ga    Ma    Ga    Ma    Da    Ni    .   
+    Ma    Da    Ni    Ma    Da    Ma    Da    Ni    Sa↑   .   
+    Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Ma    .   
+    Ni    Da    Ma    Ni    Da    Ni    Da    Ma    Ga    .   
+    Da    Ma    Ga    Da    Ma    Da    Ma    Ga    Sa    .   
+
+ 7. Eka Taalam:
+    =================================== 
+    Sa    Ga    Ma    Da   
+    Ga    Ma    Da    Ni   
+    Ma    Da    Ni    Sa↑  
+    Sa↑   Ni    Da    Ma   
+    Ni    Da    Ma    Ga   
+    Da    Ma    Ga    Sa   
+

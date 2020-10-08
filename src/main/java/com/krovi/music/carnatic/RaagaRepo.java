@@ -15,13 +15,19 @@ import static com.krovi.music.carnatic.Swara.RI_H;
 import static com.krovi.music.carnatic.Swara.SA;
 import static com.krovi.music.carnatic.Swara.SA_H;
 import java.util.List;
+import java.util.Map;
 import org.apache.commons.lang3.tuple.Pair;
 
 public class RaagaRepo {
 
   public static final Raaga MAAYA_MAALAWA_GOWLA =
       Raaga.newBuilder()
-          .name("మాయా మాళవ గౌళ")
+          .name(
+              Map.of(
+                  TeluguLabels.SUFFIX,
+                  "మాయా మాళవ గౌళ",
+                  EnglishLabels.SUFFIX,
+                  "Maaya Maalawa Gowla"))
           .fileName("maaya-maalawa-gowla")
           .moorchana(
               Pair.of(
@@ -33,7 +39,7 @@ public class RaagaRepo {
 
   public static final Raaga MALAHARI =
       Raaga.newBuilder()
-          .name("మలహరి")
+          .name(Map.of(TeluguLabels.SUFFIX, "మలహరి", EnglishLabels.SUFFIX, "Malahari"))
           .fileName("malahari")
           .moorchana(
               Pair.of(List.of(SA, RI, MA, PA, DA, SA_H), List.of(SA_H, DA, PA, MA, GA, RI, SA)))
@@ -43,7 +49,7 @@ public class RaagaRepo {
 
   public static final Raaga MOHANA =
       Raaga.newBuilder()
-          .name("మోహన")
+          .name(Map.of(TeluguLabels.SUFFIX, "మోహన", EnglishLabels.SUFFIX, "Mohana"))
           .fileName("mohana")
           .moorchana(Pair.of(List.of(SA, RI, GA, PA, DA, SA_H), List.of(SA_H, DA, PA, GA, RI, SA)))
           .aaorhana(List.of(SA, RI, GA, PA, DA, SA_H, RI_H, GA_H))
@@ -52,7 +58,7 @@ public class RaagaRepo {
 
   public static final Raaga HAMSADHWANI =
       Raaga.newBuilder()
-          .name("హంసధ్వని")
+          .name(Map.of(TeluguLabels.SUFFIX, "హంసధ్వని", EnglishLabels.SUFFIX, "Hamsadhwani"))
           .fileName("hamsadhwani")
           .moorchana(Pair.of(List.of(SA, RI, GA, PA, NI, SA_H), List.of(SA_H, NI, PA, GA, RI, SA)))
           .aaorhana(List.of(SA, RI, GA, PA, NI, SA_H, RI_H, GA_H))
@@ -61,7 +67,7 @@ public class RaagaRepo {
 
   public static final Raaga KALYANI =
       Raaga.newBuilder()
-          .name("కల్యాణి")
+          .name(Map.of(TeluguLabels.SUFFIX, "కల్యాణి", EnglishLabels.SUFFIX, "Kalyaani"))
           .fileName("kalyani")
           .moorchana(
               Pair.of(
@@ -73,7 +79,7 @@ public class RaagaRepo {
 
   public static final Raaga HINDOLAM =
       Raaga.newBuilder()
-          .name("హిందోళం")
+          .name(Map.of(TeluguLabels.SUFFIX, "హిందోళం", EnglishLabels.SUFFIX, "Hindolam"))
           .fileName("hindolam")
           .moorchana(Pair.of(List.of(SA, GA, MA, DA, NI, SA_H), List.of(SA_H, NI, DA, MA, GA, SA)))
           .aaorhana(List.of(SA, GA, MA, DA, NI, SA_H, GA_H, MA_H))
@@ -82,7 +88,7 @@ public class RaagaRepo {
 
   public static final Raaga MALAYA_MAARUTHAM =
       Raaga.newBuilder()
-          .name("మలయమారుతం")
+          .name(Map.of(TeluguLabels.SUFFIX, "మలయమారుతం", EnglishLabels.SUFFIX, "Malayamaarutham"))
           .fileName("malayamaarutham")
           .moorchana(
               Pair.of(List.of(SA, RI, GA, PA, DA, NI, SA_H), List.of(SA_H, NI, DA, PA, GA, RI, SA)))
@@ -92,7 +98,7 @@ public class RaagaRepo {
 
   public static final Raaga KAMBHOJI =
       Raaga.newBuilder()
-          .name("కాంభోజి")
+          .name(Map.of(TeluguLabels.SUFFIX, "కాంభోజి", EnglishLabels.SUFFIX, "Kaambhoji"))
           .fileName("kambhoji")
           .moorchana(
               Pair.of(
@@ -103,7 +109,7 @@ public class RaagaRepo {
 
   public static final Raaga BILAHARI =
       Raaga.newBuilder()
-          .name("బిళహరి")
+          .name(Map.of(TeluguLabels.SUFFIX, "బిళహరి", EnglishLabels.SUFFIX, "Bilahari"))
           .fileName("bilahari")
           .moorchana(
               Pair.of(List.of(SA, RI, GA, PA, DA, SA_H), List.of(SA_H, NI, DA, PA, MA, GA, RI, SA)))
@@ -113,7 +119,7 @@ public class RaagaRepo {
 
   public static final Raaga JHINJHOTI =
       Raaga.newBuilder()
-          .name("జింజోటి")
+          .name(Map.of(TeluguLabels.SUFFIX, "జింజోటి", EnglishLabels.SUFFIX, "Jinjhoti"))
           .fileName("jinjhoti")
           .moorchana(
               Pair.of(

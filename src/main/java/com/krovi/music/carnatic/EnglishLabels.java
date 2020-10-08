@@ -5,6 +5,7 @@ public class EnglishLabels implements Labels {
   public static final String SUFFIX = "en";
 
   public String languageSuffix() {return SUFFIX;}
+  public String raagam() { return "Raaga";}
   public String moorchana() { return "Moorchana";}
   public String aarohana() {return "Aarohana";}
   public String avarohana() {return "Avarohana";}
@@ -20,27 +21,27 @@ public class EnglishLabels implements Labels {
   public String jhampe() { return "Jampe Taalam"; }
   public String eka() { return "Eka Taalam"; }
 
-  public String SA_L() { return "Sa↓  ";}
-  public String RI_L() { return "Ri↓  ";}
-  public String GA_L() { return "Ga↓  ";}
-  public String MA_L() { return "Ma↓  ";}
-  public String PA_L() { return "Pa↓  ";}
-  public String DA_L() { return "Da↓  ";}
-  public String NI_L() { return "Ni↓  ";}
-  public String SA() { return "Sa   ";}
-  public String RI() { return "Ri   ";}
-  public String GA() { return "Ga   ";}
-  public String MA() { return "Ma   ";}
-  public String PA() { return "Pa   ";}
-  public String DA() { return "Da   ";}
-  public String NI() { return "Ni   ";}
-  public String SA_H() { return "Sa↑  ";}
-  public String RI_H() { return "Ri↑  ";}
-  public String GA_H() { return "Ga↑  ";}
-  public String MA_H() { return "Ma↑  ";}
-  public String PA_H() { return "Pa↑  ";}
-  public String DA_H() { return "Da↑  ";}
-  public String NI_H() { return "Ni↑  ";}
+  public Swara SA_L() { return Swara.of("Sa↓  ");}
+  public Swara RI_L() { return Swara.of("Ri↓  ");}
+  public Swara GA_L() { return Swara.of("Ga↓  ");}
+  public Swara MA_L() { return Swara.of("Ma↓  ");}
+  public Swara PA_L() { return Swara.of("Pa↓  ");}
+  public Swara DA_L() { return Swara.of("Da↓  ");}
+  public Swara NI_L() { return Swara.of("Ni↓  ");}
+  public Swara SA() { return Swara.of("Sa   ");}
+  public Swara RI() { return Swara.of("Ri   ");}
+  public Swara GA() { return Swara.of("Ga   ");}
+  public Swara MA() { return Swara.of("Ma   ");}
+  public Swara PA() { return Swara.of("Pa   ");}
+  public Swara DA() { return Swara.of("Da   ");}
+  public Swara NI() { return Swara.of("Ni   ");}
+  public Swara SA_H() { return Swara.of("Sa↑  ");}
+  public Swara RI_H() { return Swara.of("Ri↑  ");}
+  public Swara GA_H() { return Swara.of("Ga↑  ");}
+  public Swara MA_H() { return Swara.of("Ma↑  ");}
+  public Swara PA_H() { return Swara.of("Pa↑  ");}
+  public Swara DA_H() { return Swara.of("Da↑  ");}
+  public Swara NI_H() { return Swara.of("Ni↑  ");}
 
   private EnglishLabels() {
     // Not expected to be instantiated outside this class.

@@ -1,6 +1,6 @@
 package com.krovi.music.carnatic;
 
-import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -127,23 +127,24 @@ public class SaraliVarasaRepo {
               List.of(List.of(1, 2, 3, 4, 5, 0, 5, 0), List.of(6, 6, 5, 0, 4, 4, 5, 0)),
               List.of(List.of(3, 2, 1, 0, 1, 2, 3, 4), List.of(1, 2, 3, 4, 5, 6, 7, 8)));
 
-  public static List<Function<Raaga, String>> SARALIS =
-      List.of(
-          saraliVarasa1,
-          saraliVarasa20,
-          saraliVarasa21,
-          saraliVarasa30,
-          saraliVarasa31,
-          saraliVarasa4,
-          saraliVarasa5,
-          saraliVarasa60,
-          saraliVarasa61,
-          saraliVarasa71,
-          saraliVarasa10,
-          saraliVarasa11,
-          saraliVarasa12,
-          saraliVarasa13,
-          saraliVarasa14);
+  public static final List<Function<Raaga, String>> SARALIS =
+      Collections.unmodifiableList(
+          List.of(
+              saraliVarasa1,
+              saraliVarasa20,
+              saraliVarasa21,
+              saraliVarasa30,
+              saraliVarasa31,
+              saraliVarasa4,
+              saraliVarasa5,
+              saraliVarasa60,
+              saraliVarasa61,
+              saraliVarasa71,
+              saraliVarasa10,
+              saraliVarasa11,
+              saraliVarasa12,
+              saraliVarasa13,
+              saraliVarasa14));
 
   private SaraliVarasaRepo() {
     // This class is not expected to be instantiated.
