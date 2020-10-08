@@ -22,6 +22,7 @@ public class RaagaRepo {
   public static final Raaga MAAYA_MAALAWA_GOWLA =
       Raaga.newBuilder()
           .name("మాయా మాళవ గౌళ")
+          .fileName("maaya-maalawa-gowla")
           .moorchana(
               Pair.of(
                   List.of(SA, RI, GA, MA, PA, DA, NI, SA_H),
@@ -33,6 +34,7 @@ public class RaagaRepo {
   public static final Raaga MALAHARI =
       Raaga.newBuilder()
           .name("మలహరి")
+          .fileName("malahari")
           .moorchana(
               Pair.of(List.of(SA, RI, MA, PA, DA, SA_H), List.of(SA_H, DA, PA, MA, GA, RI, SA)))
           .aaorhana(List.of(SA, RI, MA, PA, DA, SA_H, RI_H, MA_H))
@@ -42,6 +44,7 @@ public class RaagaRepo {
   public static final Raaga MOHANA =
       Raaga.newBuilder()
           .name("మోహన")
+          .fileName("mohana")
           .moorchana(Pair.of(List.of(SA, RI, GA, PA, DA, SA_H), List.of(SA_H, DA, PA, GA, RI, SA)))
           .aaorhana(List.of(SA, RI, GA, PA, DA, SA_H, RI_H, GA_H))
           .avaorhana(List.of(GA_H, RI_H, SA_H, DA, PA, GA, RI, SA))
@@ -50,6 +53,7 @@ public class RaagaRepo {
   public static final Raaga HAMSADHWANI =
       Raaga.newBuilder()
           .name("హంసధ్వని")
+          .fileName("hamsadhwani")
           .moorchana(Pair.of(List.of(SA, RI, GA, PA, NI, SA_H), List.of(SA_H, NI, PA, GA, RI, SA)))
           .aaorhana(List.of(SA, RI, GA, PA, NI, SA_H, RI_H, GA_H))
           .avaorhana(List.of(GA_H, RI_H, SA_H, NI, PA, GA, RI, SA))
@@ -58,6 +62,7 @@ public class RaagaRepo {
   public static final Raaga KALYANI =
       Raaga.newBuilder()
           .name("కల్యాణి")
+          .fileName("kalyani")
           .moorchana(
               Pair.of(
                   List.of(SA, RI, GA, MA, PA, DA, NI, SA_H),
@@ -69,6 +74,7 @@ public class RaagaRepo {
   public static final Raaga HINDOLAM =
       Raaga.newBuilder()
           .name("హిందోళం")
+          .fileName("hindolam")
           .moorchana(Pair.of(List.of(SA, GA, MA, DA, NI, SA_H), List.of(SA_H, NI, DA, MA, GA, SA)))
           .aaorhana(List.of(SA, GA, MA, DA, NI, SA_H, GA_H, MA_H))
           .avaorhana(List.of(MA_H, GA_H, SA_H, NI, DA, MA, GA, SA))
@@ -77,6 +83,7 @@ public class RaagaRepo {
   public static final Raaga MALAYA_MAARUTHAM =
       Raaga.newBuilder()
           .name("మలయమారుతం")
+          .fileName("malayamaarutham")
           .moorchana(
               Pair.of(List.of(SA, RI, GA, PA, DA, NI, SA_H), List.of(SA_H, NI, DA, PA, GA, RI, SA)))
           .aaorhana(List.of(SA, RI, GA, PA, DA, NI, SA_H, RI_H))
@@ -86,6 +93,7 @@ public class RaagaRepo {
   public static final Raaga KAMBHOJI =
       Raaga.newBuilder()
           .name("కాంభోజి")
+          .fileName("kambhoji")
           .moorchana(
               Pair.of(
                   List.of(SA, RI, GA, MA, PA, DA, SA_H), List.of(SA_H, NI, DA, PA, MA, GA, RI, SA)))
@@ -96,6 +104,7 @@ public class RaagaRepo {
   public static final Raaga BILAHARI =
       Raaga.newBuilder()
           .name("బిళహరి")
+          .fileName("bilahari")
           .moorchana(
               Pair.of(List.of(SA, RI, GA, PA, DA, SA_H), List.of(SA_H, NI, DA, PA, MA, GA, RI, SA)))
           .aaorhana(List.of(SA, RI, GA, PA, DA, SA_H, RI_H, GA_H))
@@ -105,6 +114,7 @@ public class RaagaRepo {
   public static final Raaga JHINJHOTI =
       Raaga.newBuilder()
           .name("జింజోటి")
+          .fileName("jinjhoti")
           .moorchana(
               Pair.of(
                   List.of(DA_L, SA, RI, GA, MA, PA, DA, NI),

@@ -7,16 +7,19 @@ import org.apache.commons.lang3.tuple.Pair;
 
 public final class Raaga {
   private final String name;
+  private final String fileName;
   private final Pair<SwaraList, SwaraList> moorchana;
   private final SwaraList aarohana;
   private final SwaraList avarohana;
 
   private Raaga(
       final String name,
+      final String fileName,
       final Pair<List<String>, List<String>> moorchana,
       final List<String> aarohana,
       final List<String> avarohana) {
     this.name = name;
+    this.fileName = fileName;
     this.moorchana = Pair.of(SwaraList.of(moorchana.getKey()), SwaraList.of(moorchana.getValue()));
     this.aarohana = SwaraList.of(aarohana);
     this.avarohana = SwaraList.of(avarohana);
@@ -39,6 +42,10 @@ public final class Raaga {
 
   public String name() {
     return name;
+  }
+
+  public String fileName() {
+    return fileName;
   }
 
   public Pair<SwaraList, SwaraList> getMoorchana() {
@@ -75,12 +82,18 @@ public final class Raaga {
 
   public static class RaagaBuilder {
     private String name;
+    private String fileName;
     private Pair<List<String>, List<String>> moorchana;
     private List<String> aarohana;
     private List<String> avarohana;
 
     public RaagaBuilder name(final String name) {
       this.name = name;
+      return this;
+    }
+
+    public RaagaBuilder fileName(final String fileName) {
+      this.fileName = fileName;
       return this;
     }
 
@@ -114,7 +127,7 @@ public final class Raaga {
                 + ", av:"
                 + avarohana);
       }
-      return new Raaga(name, moorchana, aarohana, avarohana);
+      return new Raaga(name, fileName, moorchana, aarohana, avarohana);
     }
   }
 }
