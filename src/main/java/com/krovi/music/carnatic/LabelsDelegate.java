@@ -6,7 +6,10 @@ public class LabelsDelegate {
 
   public static void setLabels(final Labels labels) {
     LabelsDelegate.labels = labels;
+    Swara.setLabels(labels);
   }
+
+  public static Labels getLabels() { return labels;}
 
   public static String aarohana() {
     return labels.aarohana();

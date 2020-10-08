@@ -10,8 +10,12 @@ public class Main {
   }
 
   private static void print(final Raaga raaga, final String s) {
-    File file =
-        new File(System.getProperty("user.dir") + "/raaga-exercises/" + raaga.fileName() + ".txt");
+    String suffix =
+        TeluguLabels.SUFFIX.equals(LabelsDelegate.getLabels().languageSuffix())
+            ? ""
+            : "-" + LabelsDelegate.getLabels().languageSuffix();
+    final String fileName = raaga.fileName() + suffix + ".txt";
+    File file = new File(System.getProperty("user.dir") + "/raaga-exercises/" + fileName);
 
     try (FileOutputStream fos = new FileOutputStream(file)) {
       fos.write(s.getBytes());
@@ -22,7 +26,9 @@ public class Main {
   }
 
   public static void main(final String[] args) {
-    LabelsDelegate.setLabels(new TeluguLabels());
+    LabelsDelegate.setLabels(TeluguLabels.INSTANCE);
+    RaagaRepo.raagaList.forEach(raaga -> print(raaga, MusicRepo.generateAllFor(raaga)));
+    LabelsDelegate.setLabels(EnglishLabels.INSTANCE);
     RaagaRepo.raagaList.forEach(raaga -> print(raaga, MusicRepo.generateAllFor(raaga)));
   }
 }

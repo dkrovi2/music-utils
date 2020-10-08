@@ -11,7 +11,7 @@ class RaagaRepoTest {
 
   @BeforeAll
   public static void beforeAll() {
-    LabelsDelegate.setLabels(new TeluguLabels());
+    LabelsDelegate.setLabels(TeluguLabels.INSTANCE);
   }
 
   public static Stream<Raaga> raagaStream() {
