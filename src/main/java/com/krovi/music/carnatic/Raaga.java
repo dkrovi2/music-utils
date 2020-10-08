@@ -6,14 +6,17 @@ import java.util.stream.Collectors;
 import org.apache.commons.lang3.tuple.Pair;
 
 public final class Raaga {
+  private final String name;
   private final Pair<SwaraList, SwaraList> moorchana;
   private final SwaraList aarohana;
   private final SwaraList avarohana;
 
   private Raaga(
+      final String name,
       final Pair<List<String>, List<String>> moorchana,
       final List<String> aarohana,
       final List<String> avarohana) {
+    this.name = name;
     this.moorchana = Pair.of(SwaraList.of(moorchana.getKey()), SwaraList.of(moorchana.getValue()));
     this.aarohana = SwaraList.of(aarohana);
     this.avarohana = SwaraList.of(avarohana);
@@ -34,6 +37,10 @@ public final class Raaga {
     return list;
   }
 
+  public String name() {
+    return name;
+  }
+
   public Pair<SwaraList, SwaraList> getMoorchana() {
     return moorchana;
   }
@@ -48,6 +55,8 @@ public final class Raaga {
 
   public String toString() {
     return "\n"
+        + name
+        + " -- "
         + LabelsDelegate.moorchana()
         + ":"
         + "\n     "
@@ -65,9 +74,15 @@ public final class Raaga {
   }
 
   public static class RaagaBuilder {
+    private String name;
     private Pair<List<String>, List<String>> moorchana;
     private List<String> aarohana;
     private List<String> avarohana;
+
+    public RaagaBuilder name(final String name) {
+      this.name = name;
+      return this;
+    }
 
     public RaagaBuilder moorchana(final Pair<List<String>, List<String>> moorchana) {
       this.moorchana = moorchana;
@@ -85,7 +100,8 @@ public final class Raaga {
     }
 
     public Raaga build() {
-      if (null == moorchana
+      if (null == name
+          || null == moorchana
           || null == moorchana.getLeft()
           || null == moorchana.getRight()
           || null == aarohana
@@ -98,7 +114,7 @@ public final class Raaga {
                 + ", av:"
                 + avarohana);
       }
-      return new Raaga(moorchana, aarohana, avarohana);
+      return new Raaga(name, moorchana, aarohana, avarohana);
     }
   }
 }
