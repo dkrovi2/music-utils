@@ -106,7 +106,7 @@ public class JantiVarasaRepo {
   public static final List<Function<Raaga, String>> jantiVarasaList =
       List.of(jantiVarasa1, jantiVarasa2, jantiVarasa3, jantiVarasa4, jantiVarasa5);
 
-  private static String s(
+  protected static String s(
       final Raaga raaga,
       final int number,
       final List<List<Integer>> aarohanaPatterns,
