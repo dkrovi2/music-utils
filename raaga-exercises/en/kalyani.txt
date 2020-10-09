@@ -83,6 +83,7 @@ Raaga: Kalyaani
 ===============================================================
  1. 
     Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
 
  2. 
     Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma   
@@ -90,6 +91,11 @@ Raaga: Kalyaani
     Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
     Pa    Pa    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Pa    Pa   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
 
  3. 
     Sa    Sa    Ri    Ri    Ga    Ga    Ri    Ri   
@@ -102,6 +108,16 @@ Raaga: Kalyaani
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
     Pa    Pa    Da    Da    Ni    Ni    Da    Da   
     Pa    Pa    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ni    Ni   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Pa    Pa   
+    Ni    Ni    Da    Da    Pa    Pa    Da    Da   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Pa    Pa   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ma    Ma   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Ga    Ga   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
 
  4. 
     Sa    Sa    Ri    Ri    Ga    Sa    Ri    Ga   
@@ -114,6 +130,16 @@ Raaga: Kalyaani
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
     Pa    Pa    Da    Da    Ni    Pa    Da    Ni   
     Pa    Pa    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Sa↑   Ni    Da   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Pa    Pa   
+    Ni    Ni    Da    Da    Pa    Ni    Da    Pa   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Da    Pa    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Pa    Ma    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ma    Ga    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
 
  4. 
     Ma    Ma    Ga    Ga    Ri    Ri    Ga    Ga   
@@ -126,6 +152,16 @@ Raaga: Kalyaani
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
     Sa↑   Sa↑   Ni    Ni    Da    Da    Ni    Ni   
     Pa    Pa    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Pa    Pa    Da    Da    Ni    Ni    Da    Da   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Pa    Pa   
+    Ma    Ma    Pa    Pa    Da    Da    Pa    Pa   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Ga    Ga    Ma    Ma    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Ri    Ri    Ga    Ga    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
 
 
 
@@ -142,6 +178,16 @@ Raaga: Kalyaani
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
     Pa    Da    Pa    Ni    Pa    Sa↑   Ni    Da   
     Pa    Pa    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Ni    Sa↑   Da    Sa↑   Pa    Da    Ni   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Pa    Pa   
+    Ni    Da    Ni    Pa    Ni    Ma    Pa    Da   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Pa    Da    Ma    Da    Ga    Ma    Pa   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Ma    Pa    Ga    Pa    Ri    Ga    Ma   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ga    Ma    Ri    Ma    Sa    Ri    Ga   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
 
  2. 
     Sa    Ma    Ga    Ma    Ri    Ga    Sa    Ri   
@@ -154,6 +200,16 @@ Raaga: Kalyaani
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
     Pa    Sa↑   Ni    Sa↑   Da    Ni    Pa    Da   
     Pa    Pa    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Pa    Da    Pa    Ni    Da    Sa↑   Ni   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Pa    Pa   
+    Ni    Ma    Pa    Ma    Da    Pa    Ni    Da   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Ga    Ma    Ga    Pa    Ma    Da    Pa   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Ri    Ga    Ri    Ma    Ga    Pa    Ma   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Sa    Ri    Sa    Ga    Ri    Ma    Ga   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
 
 
 
@@ -165,88 +221,88 @@ Raaga: Kalyaani
     Ri    Ga    Ri    Ga    Ma    Pa   
     Ga    Ma    Ga    Ma    Pa    Da   
     Ma    Pa    Ma    Pa    Da    Ni   
-    Pa    Da    Pa    Da    Ni    Sa↑  
+    Pa    Da    Pa    Da    Ni    Sa↑   
     Sa↑   Ni    Sa↑   Ni    Da    Pa   
     Ni    Da    Ni    Da    Pa    Ma   
     Da    Pa    Da    Pa    Ma    Ga   
     Pa    Ma    Pa    Ma    Ga    Ri   
-    Ma    Ga    Ma    Ga    Ri    Sa   
-
+    Ma    Ga    Ma    Ga    Ri    Sa    
+ 
  2. Triputa Taalam:
     =================================== 
     Sa    Ri    Ga    Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Ga    Ma    Pa    Da   
     Ma    Pa    Da    Ma    Pa    Da    Ni   
-    Pa    Da    Ni    Pa    Da    Ni    Sa↑  
+    Pa    Da    Ni    Pa    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Sa↑   Ni    Da    Pa   
     Ni    Da    Pa    Ni    Da    Pa    Ma   
     Da    Pa    Ma    Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Pa    Ma    Ga    Ri   
-    Ma    Ga    Ri    Ma    Ga    Ri    Sa   
-
+    Ma    Ga    Ri    Ma    Ga    Ri    Sa    
+ 
  3. Matya Taalam:
     =================================== 
     Sa    Ri    Ga    Ri    Sa    Ri    Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Ga    Ri    Ga    Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Ma    Ga    Ma    Ga    Ma    Pa    Da   
     Ma    Pa    Da    Pa    Ma    Pa    Ma    Pa    Da    Ni   
-    Pa    Da    Ni    Da    Pa    Da    Pa    Da    Ni    Sa↑  
+    Pa    Da    Ni    Da    Pa    Da    Pa    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Ni    Sa↑   Ni    Sa↑   Ni    Da    Pa   
     Ni    Da    Pa    Da    Ni    Da    Ni    Da    Pa    Ma   
     Da    Pa    Ma    Pa    Da    Pa    Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Ma    Pa    Ma    Pa    Ma    Ga    Ri   
-    Ma    Ga    Ri    Ga    Ma    Ga    Ma    Ga    Ri    Sa   
-
+    Ma    Ga    Ri    Ga    Ma    Ga    Ma    Ga    Ri    Sa    
+ 
  4. Dhruva Taalam:
     =================================== 
     Sa    Ri    Ga    Ma    Ga    Ri    Sa    Ri    Ga    Ri    Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Pa    Ma    Ga    Ri    Ga    Ma    Ga    Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Da    Pa    Ma    Ga    Ma    Pa    Ma    Ga    Ma    Pa    Da   
     Ma    Pa    Da    Ni    Da    Pa    Ma    Pa    Da    Pa    Ma    Pa    Da    Ni   
-    Pa    Da    Ni    Sa↑   Ni    Da    Pa    Da    Ni    Da    Pa    Da    Ni    Sa↑  
+    Pa    Da    Ni    Sa↑   Ni    Da    Pa    Da    Ni    Da    Pa    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Pa    Da    Ni    Sa↑   Ni    Da    Ni    Sa↑   Ni    Da    Pa   
     Ni    Da    Pa    Ma    Pa    Da    Ni    Da    Pa    Da    Ni    Da    Pa    Ma   
     Da    Pa    Ma    Ga    Ma    Pa    Da    Pa    Ma    Pa    Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Ri    Ga    Ma    Pa    Ma    Ga    Ma    Pa    Ma    Ga    Ri   
-    Ma    Ga    Ri    Sa    Ri    Ga    Ma    Ga    Ri    Ga    Ma    Ga    Ri    Sa   
-
+    Ma    Ga    Ri    Sa    Ri    Ga    Ma    Ga    Ri    Ga    Ma    Ga    Ri    Sa    
+ 
  5. Atta Taalam:
     =================================== 
     Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Ma    Ma   
     Ri    Ga    .     Ma    .     Ri    .     Ga    Ma    .     Pa    Pa   
     Ga    Ma    .     Pa    .     Ga    .     Ma    Pa    .     Da    Da   
     Ma    Pa    .     Da    .     Ma    .     Pa    Da    .     Ni    Ni   
-    Pa    Da    .     Ni    .     Pa    .     Da    Ni    .     Sa↑   Sa↑  
+    Pa    Da    .     Ni    .     Pa    .     Da    Ni    .     Sa↑   Sa↑   
     Sa↑   Ni    .     Da    .     Sa↑   .     Ni    Da    .     Pa    Pa   
     Ni    Da    .     Pa    .     Ni    .     Da    Pa    .     Ma    Ma   
     Da    Pa    .     Ma    .     Da    .     Pa    Ma    .     Ga    Ga   
     Pa    Ma    .     Ga    .     Pa    .     Ma    Ga    .     Ri    Ri   
-    Ma    Ga    .     Ri    .     Ma    .     Ga    Ri    .     Sa    Sa   
-
+    Ma    Ga    .     Ri    .     Ma    .     Ga    Ri    .     Sa    Sa    
+ 
  6. Jampe Taalam:
     =================================== 
     Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Ma    .    
     Ri    Ga    Ma    Ri    Ga    Ri    Ga    Ma    Pa    .    
     Ga    Ma    Pa    Ga    Ma    Ga    Ma    Pa    Da    .    
     Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Ni    .    
-    Pa    Da    Ni    Pa    Da    Pa    Da    Ni    Sa↑   .    
+    Pa    Da    Ni    Pa    Da    Pa    Da    Ni    Sa↑   .     
     Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Pa    .    
     Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .    
     Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .    
     Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .    
-    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .    
-
+    Ma    Ga    Ri    Ma    Ga    Ma    Ga    Ri    Sa    .     
+ 
  7. Eka Taalam:
     =================================== 
     Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Da   
     Ma    Pa    Da    Ni   
-    Pa    Da    Ni    Sa↑  
+    Pa    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Pa   
     Ni    Da    Pa    Ma   
     Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Ri   
-    Ma    Ga    Ri    Sa   
-
+    Ma    Ga    Ri    Sa    
+ 

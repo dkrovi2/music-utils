@@ -83,6 +83,7 @@ Raaga: Jinjhoti
 ===============================================================
  1. 
     Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Sa    Sa   
 
  2. 
     Da↓   Da↓   Sa    Sa    Ri    Ri    Ga    Ga   
@@ -90,6 +91,15 @@ Raaga: Jinjhoti
     Ri    Ri    Ga    Ga    Ma    Ma    Pa    Pa   
     Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
+    Ga    Ga    Ri    Ri    Sa    Sa    Ni↓   Ni↓  
+    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Sa    Sa   
 
  3. 
     Da↓   Da↓   Sa    Sa    Ri    Ri    Sa    Sa   
@@ -102,6 +112,24 @@ Raaga: Jinjhoti
     Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
     Ma    Ma    Pa    Pa    Da    Da    Pa    Pa   
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+    Ni    Ni    Da    Da    Pa    Pa    Da    Da   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Pa    Pa   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ma    Ma   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Ga    Ga   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
+    Ga    Ga    Ri    Ri    Sa    Sa    Ri    Ri   
+    Ga    Ga    Ri    Ri    Sa    Sa    Ni↓   Ni↓  
+    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Sa    Sa   
+    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Ni↓   Ni↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Pa↓   Pa↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Sa    Sa   
 
  4. 
     Da↓   Da↓   Sa    Sa    Ri    Da↓   Sa    Ri   
@@ -114,6 +142,24 @@ Raaga: Jinjhoti
     Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
     Ma    Ma    Pa    Pa    Da    Ma    Pa    Da   
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+    Ni    Ni    Da    Da    Pa    Ni    Da    Pa   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Da    Pa    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Pa    Ma    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ma    Ga    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
+    Ga    Ga    Ri    Ri    Sa    Ga    Ri    Sa   
+    Ga    Ga    Ri    Ri    Sa    Sa    Ni↓   Ni↓  
+    Ri    Ri    Sa    Sa    Ni↓   Ri    Sa    Ni↓  
+    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Sa    Ni↓   Da↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Ni↓   Da↓   Pa↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Pa↓   Da↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Sa    Sa   
 
  4. 
     Ga    Ga    Ri    Ri    Sa    Sa    Ri    Ri   
@@ -126,6 +172,24 @@ Raaga: Jinjhoti
     Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
     Ni    Ni    Da    Da    Pa    Pa    Da    Da   
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+    Ma    Ma    Pa    Pa    Da    Da    Pa    Pa   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Ga    Ga    Ma    Ma    Pa    Pa    Ma    Ma   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Ri    Ri    Ga    Ga    Ma    Ma    Ga    Ga   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ri    Ri   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
+    Ni↓   Ni↓   Sa    Sa    Ri    Ri    Sa    Sa   
+    Ga    Ga    Ri    Ri    Sa    Sa    Ni↓   Ni↓  
+    Da↓   Da↓   Ni↓   Ni↓   Sa    Sa    Ni↓   Ni↓  
+    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓  
+    Pa↓   Pa↓   Da↓   Da↓   Ni↓   Ni↓   Da↓   Da↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Pa↓   Pa↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Sa    Sa    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Sa    Sa   
 
 
 
@@ -142,6 +206,24 @@ Raaga: Jinjhoti
     Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
     Ma    Pa    Ma    Da    Ma    Ni    Da    Pa   
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+    Ni    Da    Ni    Pa    Ni    Ma    Pa    Da   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Pa    Da    Ma    Da    Ga    Ma    Pa   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Ma    Pa    Ga    Pa    Ri    Ga    Ma   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Ga    Ma    Ri    Ma    Sa    Ri    Ga   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
+    Ga    Ri    Ga    Sa    Ga    Ni↓   Sa    Ri   
+    Ga    Ga    Ri    Ri    Sa    Sa    Ni↓   Ni↓  
+    Ri    Sa    Ri    Ni↓   Ri    Da↓   Ni↓   Sa   
+    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓  
+    Sa    Ni↓   Sa    Da↓   Sa    Pa↓   Da↓   Ni↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓  
+    Ni↓   Da↓   Ni↓   Pa↓   Ni↓   Da↓   Pa↓   Da↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Da↓   Pa↓   Da↓   Da↓   Da↓   Sa    Da↓   Pa↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Sa    Sa   
 
  2. 
     Da↓   Ga    Ri    Ga    Sa    Ri    Da↓   Sa   
@@ -154,6 +236,24 @@ Raaga: Jinjhoti
     Ga    Ga    Ma    Ma    Pa    Pa    Da    Da   
     Ma    Ni    Da    Ni    Pa    Da    Ma    Pa   
     Ma    Ma    Pa    Pa    Da    Da    Ni    Ni   
+    Ni    Ma    Pa    Ma    Da    Pa    Ni    Da   
+    Ni    Ni    Da    Da    Pa    Pa    Ma    Ma   
+    Da    Ga    Ma    Ga    Pa    Ma    Da    Pa   
+    Da    Da    Pa    Pa    Ma    Ma    Ga    Ga   
+    Pa    Ri    Ga    Ri    Ma    Ga    Pa    Ma   
+    Pa    Pa    Ma    Ma    Ga    Ga    Ri    Ri   
+    Ma    Sa    Ri    Sa    Ga    Ri    Ma    Ga   
+    Ma    Ma    Ga    Ga    Ri    Ri    Sa    Sa   
+    Ga    Ni↓   Sa    Ni↓   Ri    Sa    Ga    Ri   
+    Ga    Ga    Ri    Ri    Sa    Sa    Ni↓   Ni↓  
+    Ri    Da↓   Ni↓   Da↓   Sa    Ni↓   Ri    Sa   
+    Ri    Ri    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓  
+    Sa    Pa↓   Da↓   Pa↓   Ni↓   Da↓   Sa    Ni↓  
+    Sa    Sa    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓  
+    Ni↓   Da↓   Pa↓   Da↓   Da↓   Pa↓   Ni↓   Da↓  
+    Ni↓   Ni↓   Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓  
+    Da↓   Sa    Da↓   Sa    Pa↓   Da↓   Da↓   Pa↓  
+    Da↓   Da↓   Pa↓   Pa↓   Da↓   Da↓   Sa    Sa   
 
 
 
@@ -165,7 +265,7 @@ Raaga: Jinjhoti
     Sa    Ri    Sa    Ri    Ga    Ma   
     Ri    Ga    Ri    Ga    Ma    Pa   
     Ga    Ma    Ga    Ma    Pa    Da   
-    Ma    Pa    Ma    Pa    Da    Ni   
+    Ma    Pa    Ma    Pa    Da    Ni    
     Ni    Da    Ni    Da    Pa    Ma   
     Da    Pa    Da    Pa    Ma    Ga   
     Pa    Ma    Pa    Ma    Ga    Ri   
@@ -174,15 +274,15 @@ Raaga: Jinjhoti
     Ri    Sa    Ri    Sa    Ni↓   Da↓  
     Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓  
     Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓  
-    Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa   
-
+    Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    
+ 
  2. Triputa Taalam:
     =================================== 
     Da↓   Sa    Ri    Da↓   Sa    Ri    Ga   
     Sa    Ri    Ga    Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Ga    Ma    Pa    Da   
-    Ma    Pa    Da    Ma    Pa    Da    Ni   
+    Ma    Pa    Da    Ma    Pa    Da    Ni    
     Ni    Da    Pa    Ni    Da    Pa    Ma   
     Da    Pa    Ma    Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Pa    Ma    Ga    Ri   
@@ -191,15 +291,15 @@ Raaga: Jinjhoti
     Ri    Sa    Ni↓   Ri    Sa    Ni↓   Da↓  
     Sa    Ni↓   Da↓   Sa    Ni↓   Da↓   Pa↓  
     Ni↓   Da↓   Pa↓   Ni↓   Da↓   Pa↓   Da↓  
-    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Sa   
-
+    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Sa    
+ 
  3. Matya Taalam:
     =================================== 
     Da↓   Sa    Ri    Sa    Da↓   Sa    Da↓   Sa    Ri    Ga   
     Sa    Ri    Ga    Ri    Sa    Ri    Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Ga    Ri    Ga    Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Ma    Ga    Ma    Ga    Ma    Pa    Da   
-    Ma    Pa    Da    Pa    Ma    Pa    Ma    Pa    Da    Ni   
+    Ma    Pa    Da    Pa    Ma    Pa    Ma    Pa    Da    Ni    
     Ni    Da    Pa    Da    Ni    Da    Ni    Da    Pa    Ma   
     Da    Pa    Ma    Pa    Da    Pa    Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Ma    Pa    Ma    Pa    Ma    Ga    Ri   
@@ -208,15 +308,15 @@ Raaga: Jinjhoti
     Ri    Sa    Ni↓   Sa    Ri    Sa    Ri    Sa    Ni↓   Da↓  
     Sa    Ni↓   Da↓   Ni↓   Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓  
     Ni↓   Da↓   Pa↓   Da↓   Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓  
-    Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa   
-
+    Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    
+ 
  4. Dhruva Taalam:
     =================================== 
     Da↓   Sa    Ri    Ga    Ri    Sa    Da↓   Sa    Ri    Sa    Da↓   Sa    Ri    Ga   
     Sa    Ri    Ga    Ma    Ga    Ri    Sa    Ri    Ga    Ri    Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Pa    Ma    Ga    Ri    Ga    Ma    Ga    Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Da    Pa    Ma    Ga    Ma    Pa    Ma    Ga    Ma    Pa    Da   
-    Ma    Pa    Da    Ni    Da    Pa    Ma    Pa    Da    Pa    Ma    Pa    Da    Ni   
+    Ma    Pa    Da    Ni    Da    Pa    Ma    Pa    Da    Pa    Ma    Pa    Da    Ni    
     Ni    Da    Pa    Ma    Pa    Da    Ni    Da    Pa    Da    Ni    Da    Pa    Ma   
     Da    Pa    Ma    Ga    Ma    Pa    Da    Pa    Ma    Pa    Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Ri    Ga    Ma    Pa    Ma    Ga    Ma    Pa    Ma    Ga    Ri   
@@ -225,15 +325,15 @@ Raaga: Jinjhoti
     Ri    Sa    Ni↓   Da↓   Ni↓   Sa    Ri    Sa    Ni↓   Sa    Ri    Sa    Ni↓   Da↓  
     Sa    Ni↓   Da↓   Pa↓   Da↓   Ni↓   Sa    Ni↓   Da↓   Ni↓   Sa    Ni↓   Da↓   Pa↓  
     Ni↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Ni↓   Da↓   Pa↓   Da↓   Ni↓   Da↓   Pa↓   Da↓  
-    Da↓   Pa↓   Da↓   Sa    Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa   
-
+    Da↓   Pa↓   Da↓   Sa    Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    
+ 
  5. Atta Taalam:
     =================================== 
     Da↓   Sa    .     Ri    .     Da↓   .     Sa    Ri    .     Ga    Ga   
     Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Ma    Ma   
     Ri    Ga    .     Ma    .     Ri    .     Ga    Ma    .     Pa    Pa   
     Ga    Ma    .     Pa    .     Ga    .     Ma    Pa    .     Da    Da   
-    Ma    Pa    .     Da    .     Ma    .     Pa    Da    .     Ni    Ni   
+    Ma    Pa    .     Da    .     Ma    .     Pa    Da    .     Ni    Ni    
     Ni    Da    .     Pa    .     Ni    .     Da    Pa    .     Ma    Ma   
     Da    Pa    .     Ma    .     Da    .     Pa    Ma    .     Ga    Ga   
     Pa    Ma    .     Ga    .     Pa    .     Ma    Ga    .     Ri    Ri   
@@ -242,15 +342,15 @@ Raaga: Jinjhoti
     Ri    Sa    .     Ni↓   .     Ri    .     Sa    Ni↓   .     Da↓   Da↓  
     Sa    Ni↓   .     Da↓   .     Sa    .     Ni↓   Da↓   .     Pa↓   Pa↓  
     Ni↓   Da↓   .     Pa↓   .     Ni↓   .     Da↓   Pa↓   .     Da↓   Da↓  
-    Da↓   Pa↓   .     Da↓   .     Da↓   .     Pa↓   Da↓   .     Sa    Sa   
-
+    Da↓   Pa↓   .     Da↓   .     Da↓   .     Pa↓   Da↓   .     Sa    Sa    
+ 
  6. Jampe Taalam:
     =================================== 
     Da↓   Sa    Ri    Da↓   Sa    Da↓   Sa    Ri    Ga    .    
     Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Ma    .    
     Ri    Ga    Ma    Ri    Ga    Ri    Ga    Ma    Pa    .    
     Ga    Ma    Pa    Ga    Ma    Ga    Ma    Pa    Da    .    
-    Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Ni    .    
+    Ma    Pa    Da    Ma    Pa    Ma    Pa    Da    Ni    .     
     Ni    Da    Pa    Ni    Da    Ni    Da    Pa    Ma    .    
     Da    Pa    Ma    Da    Pa    Da    Pa    Ma    Ga    .    
     Pa    Ma    Ga    Pa    Ma    Pa    Ma    Ga    Ri    .    
@@ -259,15 +359,15 @@ Raaga: Jinjhoti
     Ri    Sa    Ni↓   Ri    Sa    Ri    Sa    Ni↓   Da↓   .    
     Sa    Ni↓   Da↓   Sa    Ni↓   Sa    Ni↓   Da↓   Pa↓   .    
     Ni↓   Da↓   Pa↓   Ni↓   Da↓   Ni↓   Da↓   Pa↓   Da↓   .    
-    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    .    
-
+    Da↓   Pa↓   Da↓   Da↓   Pa↓   Da↓   Pa↓   Da↓   Sa    .     
+ 
  7. Eka Taalam:
     =================================== 
     Da↓   Sa    Ri    Ga   
     Sa    Ri    Ga    Ma   
     Ri    Ga    Ma    Pa   
     Ga    Ma    Pa    Da   
-    Ma    Pa    Da    Ni   
+    Ma    Pa    Da    Ni    
     Ni    Da    Pa    Ma   
     Da    Pa    Ma    Ga   
     Pa    Ma    Ga    Ri   
@@ -276,5 +376,5 @@ Raaga: Jinjhoti
     Ri    Sa    Ni↓   Da↓  
     Sa    Ni↓   Da↓   Pa↓  
     Ni↓   Da↓   Pa↓   Da↓  
-    Da↓   Pa↓   Da↓   Sa   
-
+    Da↓   Pa↓   Da↓   Sa    
+ 

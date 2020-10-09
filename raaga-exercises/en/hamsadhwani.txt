@@ -83,11 +83,15 @@ Raaga: Hamsadhwani
 ===============================================================
  1. 
     Sa    Sa    Ri    Ri    Ga    Ga    Pa    Pa    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ga    Ga    Ri    Ri    Sa    Sa   
 
  2. 
     Sa    Sa    Ri    Ri    Ga    Ga    Pa    Pa   
     Ri    Ri    Ga    Ga    Pa    Pa    Ni    Ni   
     Ga    Ga    Pa    Pa    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ga    Ga   
+    Ni    Ni    Pa    Pa    Ga    Ga    Ri    Ri   
+    Pa    Pa    Ga    Ga    Ri    Ri    Sa    Sa   
 
  3. 
     Sa    Sa    Ri    Ri    Ga    Ga    Ri    Ri   
@@ -96,6 +100,12 @@ Raaga: Hamsadhwani
     Ri    Ri    Ga    Ga    Pa    Pa    Ni    Ni   
     Ga    Ga    Pa    Pa    Ni    Ni    Pa    Pa   
     Ga    Ga    Pa    Pa    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ni    Ni   
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ga    Ga   
+    Ni    Ni    Pa    Pa    Ga    Ga    Pa    Pa   
+    Ni    Ni    Pa    Pa    Ga    Ga    Ri    Ri   
+    Pa    Pa    Ga    Ga    Ri    Ri    Ga    Ga   
+    Pa    Pa    Ga    Ga    Ri    Ri    Sa    Sa   
 
  4. 
     Sa    Sa    Ri    Ri    Ga    Sa    Ri    Ga   
@@ -104,6 +114,12 @@ Raaga: Hamsadhwani
     Ri    Ri    Ga    Ga    Pa    Pa    Ni    Ni   
     Ga    Ga    Pa    Pa    Ni    Ga    Pa    Ni   
     Ga    Ga    Pa    Pa    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Pa    Sa↑   Ni    Pa   
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ga    Ga   
+    Ni    Ni    Pa    Pa    Ga    Ni    Pa    Ga   
+    Ni    Ni    Pa    Pa    Ga    Ga    Ri    Ri   
+    Pa    Pa    Ga    Ga    Ri    Pa    Ga    Ri   
+    Pa    Pa    Ga    Ga    Ri    Ri    Sa    Sa   
 
  4. 
     Pa    Pa    Ga    Ga    Ri    Ri    Ga    Ga   
@@ -112,6 +128,12 @@ Raaga: Hamsadhwani
     Ri    Ri    Ga    Ga    Pa    Pa    Ni    Ni   
     Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ni    Ni   
     Ga    Ga    Pa    Pa    Ni    Ni    Sa↑   Sa↑  
+    Ga    Ga    Pa    Pa    Ni    Ni    Pa    Pa   
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ga    Ga   
+    Ri    Ri    Ga    Ga    Pa    Pa    Ga    Ga   
+    Ni    Ni    Pa    Pa    Ga    Ga    Ri    Ri   
+    Sa    Sa    Ri    Ri    Ga    Ga    Ri    Ri   
+    Pa    Pa    Ga    Ga    Ri    Ri    Sa    Sa   
 
 
 
@@ -124,6 +146,12 @@ Raaga: Hamsadhwani
     Ri    Ri    Ga    Ga    Pa    Pa    Ni    Ni   
     Ga    Pa    Ga    Ni    Ga    Sa↑   Ni    Pa   
     Ga    Ga    Pa    Pa    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Ni    Sa↑   Pa    Sa↑   Ga    Pa    Ni   
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ga    Ga   
+    Ni    Pa    Ni    Ga    Ni    Ri    Ga    Pa   
+    Ni    Ni    Pa    Pa    Ga    Ga    Ri    Ri   
+    Pa    Ga    Pa    Ri    Pa    Sa    Ri    Ga   
+    Pa    Pa    Ga    Ga    Ri    Ri    Sa    Sa   
 
  2. 
     Sa    Pa    Ga    Pa    Ri    Ga    Sa    Ri   
@@ -132,6 +160,12 @@ Raaga: Hamsadhwani
     Ri    Ri    Ga    Ga    Pa    Pa    Ni    Ni   
     Ga    Sa↑   Ni    Sa↑   Pa    Ni    Ga    Pa   
     Ga    Ga    Pa    Pa    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Ga    Pa    Ga    Ni    Pa    Sa↑   Ni   
+    Sa↑   Sa↑   Ni    Ni    Pa    Pa    Ga    Ga   
+    Ni    Ri    Ga    Ri    Pa    Ga    Ni    Pa   
+    Ni    Ni    Pa    Pa    Ga    Ga    Ri    Ri   
+    Pa    Sa    Ri    Sa    Ga    Ri    Pa    Ga   
+    Pa    Pa    Ga    Ga    Ri    Ri    Sa    Sa   
 
 
 
@@ -141,62 +175,62 @@ Raaga: Hamsadhwani
     =================================== 
     Sa    Ri    Sa    Ri    Ga    Pa   
     Ri    Ga    Ri    Ga    Pa    Ni   
-    Ga    Pa    Ga    Pa    Ni    Sa↑  
+    Ga    Pa    Ga    Pa    Ni    Sa↑   
     Sa↑   Ni    Sa↑   Ni    Pa    Ga   
     Ni    Pa    Ni    Pa    Ga    Ri   
-    Pa    Ga    Pa    Ga    Ri    Sa   
-
+    Pa    Ga    Pa    Ga    Ri    Sa    
+ 
  2. Triputa Taalam:
     =================================== 
     Sa    Ri    Ga    Sa    Ri    Ga    Pa   
     Ri    Ga    Pa    Ri    Ga    Pa    Ni   
-    Ga    Pa    Ni    Ga    Pa    Ni    Sa↑  
+    Ga    Pa    Ni    Ga    Pa    Ni    Sa↑   
     Sa↑   Ni    Pa    Sa↑   Ni    Pa    Ga   
     Ni    Pa    Ga    Ni    Pa    Ga    Ri   
-    Pa    Ga    Ri    Pa    Ga    Ri    Sa   
-
+    Pa    Ga    Ri    Pa    Ga    Ri    Sa    
+ 
  3. Matya Taalam:
     =================================== 
     Sa    Ri    Ga    Ri    Sa    Ri    Sa    Ri    Ga    Pa   
     Ri    Ga    Pa    Ga    Ri    Ga    Ri    Ga    Pa    Ni   
-    Ga    Pa    Ni    Pa    Ga    Pa    Ga    Pa    Ni    Sa↑  
+    Ga    Pa    Ni    Pa    Ga    Pa    Ga    Pa    Ni    Sa↑   
     Sa↑   Ni    Pa    Ni    Sa↑   Ni    Sa↑   Ni    Pa    Ga   
     Ni    Pa    Ga    Pa    Ni    Pa    Ni    Pa    Ga    Ri   
-    Pa    Ga    Ri    Ga    Pa    Ga    Pa    Ga    Ri    Sa   
-
+    Pa    Ga    Ri    Ga    Pa    Ga    Pa    Ga    Ri    Sa    
+ 
  4. Dhruva Taalam:
     =================================== 
     Sa    Ri    Ga    Pa    Ga    Ri    Sa    Ri    Ga    Ri    Sa    Ri    Ga    Pa   
     Ri    Ga    Pa    Ni    Pa    Ga    Ri    Ga    Pa    Ga    Ri    Ga    Pa    Ni   
-    Ga    Pa    Ni    Sa↑   Ni    Pa    Ga    Pa    Ni    Pa    Ga    Pa    Ni    Sa↑  
+    Ga    Pa    Ni    Sa↑   Ni    Pa    Ga    Pa    Ni    Pa    Ga    Pa    Ni    Sa↑   
     Sa↑   Ni    Pa    Ga    Pa    Ni    Sa↑   Ni    Pa    Ni    Sa↑   Ni    Pa    Ga   
     Ni    Pa    Ga    Ri    Ga    Pa    Ni    Pa    Ga    Pa    Ni    Pa    Ga    Ri   
-    Pa    Ga    Ri    Sa    Ri    Ga    Pa    Ga    Ri    Ga    Pa    Ga    Ri    Sa   
-
+    Pa    Ga    Ri    Sa    Ri    Ga    Pa    Ga    Ri    Ga    Pa    Ga    Ri    Sa    
+ 
  5. Atta Taalam:
     =================================== 
     Sa    Ri    .     Ga    .     Sa    .     Ri    Ga    .     Pa    Pa   
     Ri    Ga    .     Pa    .     Ri    .     Ga    Pa    .     Ni    Ni   
-    Ga    Pa    .     Ni    .     Ga    .     Pa    Ni    .     Sa↑   Sa↑  
+    Ga    Pa    .     Ni    .     Ga    .     Pa    Ni    .     Sa↑   Sa↑   
     Sa↑   Ni    .     Pa    .     Sa↑   .     Ni    Pa    .     Ga    Ga   
     Ni    Pa    .     Ga    .     Ni    .     Pa    Ga    .     Ri    Ri   
-    Pa    Ga    .     Ri    .     Pa    .     Ga    Ri    .     Sa    Sa   
-
+    Pa    Ga    .     Ri    .     Pa    .     Ga    Ri    .     Sa    Sa    
+ 
  6. Jampe Taalam:
     =================================== 
     Sa    Ri    Ga    Sa    Ri    Sa    Ri    Ga    Pa    .    
     Ri    Ga    Pa    Ri    Ga    Ri    Ga    Pa    Ni    .    
-    Ga    Pa    Ni    Ga    Pa    Ga    Pa    Ni    Sa↑   .    
+    Ga    Pa    Ni    Ga    Pa    Ga    Pa    Ni    Sa↑   .     
     Sa↑   Ni    Pa    Sa↑   Ni    Sa↑   Ni    Pa    Ga    .    
     Ni    Pa    Ga    Ni    Pa    Ni    Pa    Ga    Ri    .    
-    Pa    Ga    Ri    Pa    Ga    Pa    Ga    Ri    Sa    .    
-
+    Pa    Ga    Ri    Pa    Ga    Pa    Ga    Ri    Sa    .     
+ 
  7. Eka Taalam:
     =================================== 
     Sa    Ri    Ga    Pa   
     Ri    Ga    Pa    Ni   
-    Ga    Pa    Ni    Sa↑  
+    Ga    Pa    Ni    Sa↑   
     Sa↑   Ni    Pa    Ga   
     Ni    Pa    Ga    Ri   
-    Pa    Ga    Ri    Sa   
-
+    Pa    Ga    Ri    Sa    
+ 

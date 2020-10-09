@@ -24,18 +24,17 @@ public class MusicUtil {
       final List<List<Integer>> avarohanaPatterns) {
     String fmtStr =
         null == label || "".equals(label)
-            ? "%2d. %s%s%n%n"
-            : "%2d. %s:%n" + "    " + "===================================" + " %s%s%n%n";
-    return String.format(
-        fmtStr,
-        number,
-        label,
+            ? "%2d. %s%s%s%n%n"
+            : "%2d. %s:%n    =================================== %s %s %n %n";
+    String aarohana =
         aarohanaPatterns.stream()
             .map(pattern -> format(pattern, raaga.getMoorchana().getLeft()))
-            .collect(Collectors.joining()),
+            .collect(Collectors.joining());
+    String avarohana =
         avarohanaPatterns.stream()
             .map(pattern -> format(pattern, raaga.getMoorchana().getRight()))
-            .collect(Collectors.joining()));
+            .collect(Collectors.joining());
+    return String.format(fmtStr, number, label, aarohana, avarohana);
   }
 
   private static String format(final List<Integer> pattern, final SwaraList list) {

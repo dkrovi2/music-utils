@@ -83,11 +83,15 @@ Raaga: Hindolam
 ===============================================================
  1. 
     Sa    Sa    Ga    Ga    Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ma    Ma    Ga    Ga    Sa    Sa   
 
  2. 
     Sa    Sa    Ga    Ga    Ma    Ma    Da    Da   
     Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
     Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ma    Ma   
+    Ni    Ni    Da    Da    Ma    Ma    Ga    Ga   
+    Da    Da    Ma    Ma    Ga    Ga    Sa    Sa   
 
  3. 
     Sa    Sa    Ga    Ga    Ma    Ma    Ga    Ga   
@@ -96,6 +100,12 @@ Raaga: Hindolam
     Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
     Ma    Ma    Da    Da    Ni    Ni    Da    Da   
     Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ni    Ni   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ma    Ma   
+    Ni    Ni    Da    Da    Ma    Ma    Da    Da   
+    Ni    Ni    Da    Da    Ma    Ma    Ga    Ga   
+    Da    Da    Ma    Ma    Ga    Ga    Ma    Ma   
+    Da    Da    Ma    Ma    Ga    Ga    Sa    Sa   
 
  4. 
     Sa    Sa    Ga    Ga    Ma    Sa    Ga    Ma   
@@ -104,6 +114,12 @@ Raaga: Hindolam
     Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
     Ma    Ma    Da    Da    Ni    Ma    Da    Ni   
     Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Sa↑   Ni    Ni    Da    Sa↑   Ni    Da   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ma    Ma   
+    Ni    Ni    Da    Da    Ma    Ni    Da    Ma   
+    Ni    Ni    Da    Da    Ma    Ma    Ga    Ga   
+    Da    Da    Ma    Ma    Ga    Da    Ma    Ga   
+    Da    Da    Ma    Ma    Ga    Ga    Sa    Sa   
 
  4. 
     Da    Da    Ma    Ma    Ga    Ga    Ma    Ma   
@@ -112,6 +128,12 @@ Raaga: Hindolam
     Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
     Sa↑   Sa↑   Ni    Ni    Da    Da    Ni    Ni   
     Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Ma    Ma    Da    Da    Ni    Ni    Da    Da   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ma    Ma   
+    Ga    Ga    Ma    Ma    Da    Da    Ma    Ma   
+    Ni    Ni    Da    Da    Ma    Ma    Ga    Ga   
+    Sa    Sa    Ga    Ga    Ma    Ma    Ga    Ga   
+    Da    Da    Ma    Ma    Ga    Ga    Sa    Sa   
 
 
 
@@ -124,6 +146,12 @@ Raaga: Hindolam
     Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
     Ma    Da    Ma    Ni    Ma    Sa↑   Ni    Da   
     Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Ni    Sa↑   Da    Sa↑   Ma    Da    Ni   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ma    Ma   
+    Ni    Da    Ni    Ma    Ni    Ga    Ma    Da   
+    Ni    Ni    Da    Da    Ma    Ma    Ga    Ga   
+    Da    Ma    Da    Ga    Da    Sa    Ga    Ma   
+    Da    Da    Ma    Ma    Ga    Ga    Sa    Sa   
 
  2. 
     Sa    Da    Ma    Da    Ga    Ma    Sa    Ga   
@@ -132,6 +160,12 @@ Raaga: Hindolam
     Ga    Ga    Ma    Ma    Da    Da    Ni    Ni   
     Ma    Sa↑   Ni    Sa↑   Da    Ni    Ma    Da   
     Ma    Ma    Da    Da    Ni    Ni    Sa↑   Sa↑  
+    Sa↑   Ma    Da    Ma    Ni    Da    Sa↑   Ni   
+    Sa↑   Sa↑   Ni    Ni    Da    Da    Ma    Ma   
+    Ni    Ga    Ma    Ga    Da    Ma    Ni    Da   
+    Ni    Ni    Da    Da    Ma    Ma    Ga    Ga   
+    Da    Sa    Ga    Sa    Ma    Ga    Da    Ma   
+    Da    Da    Ma    Ma    Ga    Ga    Sa    Sa   
 
 
 
@@ -141,62 +175,62 @@ Raaga: Hindolam
     =================================== 
     Sa    Ga    Sa    Ga    Ma    Da   
     Ga    Ma    Ga    Ma    Da    Ni   
-    Ma    Da    Ma    Da    Ni    Sa↑  
+    Ma    Da    Ma    Da    Ni    Sa↑   
     Sa↑   Ni    Sa↑   Ni    Da    Ma   
     Ni    Da    Ni    Da    Ma    Ga   
-    Da    Ma    Da    Ma    Ga    Sa   
-
+    Da    Ma    Da    Ma    Ga    Sa    
+ 
  2. Triputa Taalam:
     =================================== 
     Sa    Ga    Ma    Sa    Ga    Ma    Da   
     Ga    Ma    Da    Ga    Ma    Da    Ni   
-    Ma    Da    Ni    Ma    Da    Ni    Sa↑  
+    Ma    Da    Ni    Ma    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Sa↑   Ni    Da    Ma   
     Ni    Da    Ma    Ni    Da    Ma    Ga   
-    Da    Ma    Ga    Da    Ma    Ga    Sa   
-
+    Da    Ma    Ga    Da    Ma    Ga    Sa    
+ 
  3. Matya Taalam:
     =================================== 
     Sa    Ga    Ma    Ga    Sa    Ga    Sa    Ga    Ma    Da   
     Ga    Ma    Da    Ma    Ga    Ma    Ga    Ma    Da    Ni   
-    Ma    Da    Ni    Da    Ma    Da    Ma    Da    Ni    Sa↑  
+    Ma    Da    Ni    Da    Ma    Da    Ma    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Ni    Sa↑   Ni    Sa↑   Ni    Da    Ma   
     Ni    Da    Ma    Da    Ni    Da    Ni    Da    Ma    Ga   
-    Da    Ma    Ga    Ma    Da    Ma    Da    Ma    Ga    Sa   
-
+    Da    Ma    Ga    Ma    Da    Ma    Da    Ma    Ga    Sa    
+ 
  4. Dhruva Taalam:
     =================================== 
     Sa    Ga    Ma    Da    Ma    Ga    Sa    Ga    Ma    Ga    Sa    Ga    Ma    Da   
     Ga    Ma    Da    Ni    Da    Ma    Ga    Ma    Da    Ma    Ga    Ma    Da    Ni   
-    Ma    Da    Ni    Sa↑   Ni    Da    Ma    Da    Ni    Da    Ma    Da    Ni    Sa↑  
+    Ma    Da    Ni    Sa↑   Ni    Da    Ma    Da    Ni    Da    Ma    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Ma    Da    Ni    Sa↑   Ni    Da    Ni    Sa↑   Ni    Da    Ma   
     Ni    Da    Ma    Ga    Ma    Da    Ni    Da    Ma    Da    Ni    Da    Ma    Ga   
-    Da    Ma    Ga    Sa    Ga    Ma    Da    Ma    Ga    Ma    Da    Ma    Ga    Sa   
-
+    Da    Ma    Ga    Sa    Ga    Ma    Da    Ma    Ga    Ma    Da    Ma    Ga    Sa    
+ 
  5. Atta Taalam:
     =================================== 
     Sa    Ga    .     Ma    .     Sa    .     Ga    Ma    .     Da    Da   
     Ga    Ma    .     Da    .     Ga    .     Ma    Da    .     Ni    Ni   
-    Ma    Da    .     Ni    .     Ma    .     Da    Ni    .     Sa↑   Sa↑  
+    Ma    Da    .     Ni    .     Ma    .     Da    Ni    .     Sa↑   Sa↑   
     Sa↑   Ni    .     Da    .     Sa↑   .     Ni    Da    .     Ma    Ma   
     Ni    Da    .     Ma    .     Ni    .     Da    Ma    .     Ga    Ga   
-    Da    Ma    .     Ga    .     Da    .     Ma    Ga    .     Sa    Sa   
-
+    Da    Ma    .     Ga    .     Da    .     Ma    Ga    .     Sa    Sa    
+ 
  6. Jampe Taalam:
     =================================== 
     Sa    Ga    Ma    Sa    Ga    Sa    Ga    Ma    Da    .    
     Ga    Ma    Da    Ga    Ma    Ga    Ma    Da    Ni    .    
-    Ma    Da    Ni    Ma    Da    Ma    Da    Ni    Sa↑   .    
+    Ma    Da    Ni    Ma    Da    Ma    Da    Ni    Sa↑   .     
     Sa↑   Ni    Da    Sa↑   Ni    Sa↑   Ni    Da    Ma    .    
     Ni    Da    Ma    Ni    Da    Ni    Da    Ma    Ga    .    
-    Da    Ma    Ga    Da    Ma    Da    Ma    Ga    Sa    .    
-
+    Da    Ma    Ga    Da    Ma    Da    Ma    Ga    Sa    .     
+ 
  7. Eka Taalam:
     =================================== 
     Sa    Ga    Ma    Da   
     Ga    Ma    Da    Ni   
-    Ma    Da    Ni    Sa↑  
+    Ma    Da    Ni    Sa↑   
     Sa↑   Ni    Da    Ma   
     Ni    Da    Ma    Ga   
-    Da    Ma    Ga    Sa   
-
+    Da    Ma    Ga    Sa    
+ 
