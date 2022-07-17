@@ -56,6 +56,15 @@ public class RaagaRepo {
           .avaorhana(List.of(GA_H, RI_H, SA_H, DA, PA, GA, RI, SA))
           .build();
 
+  public static final Raaga SHUDDHA_DHANYASI =
+          Raaga.newBuilder()
+                  .name(Map.of(TeluguLabels.SUFFIX, "శుద్ధ ధన్యాసి", EnglishLabels.SUFFIX, "Shuddha Dhanyasi"))
+                  .fileName("shuddha-dhanyasi")
+                  .moorchana(Pair.of(List.of(SA, GA, MA, PA, NI, SA_H), List.of(SA_H, NI, PA, MA, GA, SA)))
+                  .aaorhana(List.of(SA, GA, MA, PA, NI, SA_H, GA_H, MA_H))
+                  .avaorhana(List.of(MA_H, GA_H, SA_H, NI, PA, MA, GA, SA))
+                  .build();
+
   public static final Raaga HAMSADHWANI =
       Raaga.newBuilder()
           .name(Map.of(TeluguLabels.SUFFIX, "హంసధ్వని", EnglishLabels.SUFFIX, "Hamsadhwani"))
@@ -134,6 +143,7 @@ public class RaagaRepo {
           MAAYA_MAALAWA_GOWLA,
           MALAHARI,
           MALAYA_MAARUTHAM,
+          SHUDDHA_DHANYASI,
           MOHANA,
           KALYANI,
           KAMBHOJI,
